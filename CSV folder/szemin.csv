@@ -1,0 +1,3901 @@
+Location,Shipping Type,Frequency of Purchases
+Kentucky,Express,Fortnightly
+Maine,Express,Fortnightly
+Massachusetts,Free Shipping,Weekly
+Rhode Island,Next Day Air,Weekly
+Oregon,Free Shipping,Annually
+Wyoming,Standard,Weekly
+Montana,Free Shipping,Quarterly
+Louisiana,Free Shipping,Weekly
+West Virginia,Express,Annually
+Missouri,2-Day Shipping,Quarterly
+Arkansas,Store Pickup,Bi-Weekly
+Hawaii,Store Pickup,Fortnightly
+Delaware,Express,Fortnightly
+New Hampshire,Express,Weekly
+New York,Free Shipping,Weekly
+Rhode Island,Store Pickup,Monthly
+Alabama,Next Day Air,Bi-Weekly
+Mississippi,2-Day Shipping,Quarterly
+Montana,Free Shipping,Weekly
+Rhode Island,Standard,Bi-Weekly
+Louisiana,Express,Every 3 Months
+North Carolina,Store Pickup,Quarterly
+California,Store Pickup,Annually
+Oklahoma,Express,Weekly
+Florida,Store Pickup,Weekly
+Texas,Express,Annually
+Nevada,Next Day Air,Annually
+Kentucky,Next Day Air,Every 3 Months
+North Carolina,Free Shipping,Every 3 Months
+Wyoming,Store Pickup,Weekly
+North Carolina,Standard,Monthly
+West Virginia,Store Pickup,Monthly
+Kansas,Free Shipping,Annually
+Colorado,Store Pickup,Quarterly
+North Dakota,2-Day Shipping,Quarterly
+Massachusetts,2-Day Shipping,Bi-Weekly
+Illinois,Free Shipping,Fortnightly
+Indiana,Store Pickup,Weekly
+Florida,2-Day Shipping,Every 3 Months
+Arizona,Express,Monthly
+Louisiana,Next Day Air,Quarterly
+Alaska,Standard,Annually
+Tennessee,Free Shipping,Annually
+Ohio,Store Pickup,Fortnightly
+Kentucky,Free Shipping,Weekly
+Tennessee,2-Day Shipping,Annually
+California,Store Pickup,Quarterly
+Montana,Free Shipping,Weekly
+Nevada,Store Pickup,Monthly
+New Jersey,Next Day Air,Bi-Weekly
+Maryland,Store Pickup,Bi-Weekly
+Vermont,2-Day Shipping,Quarterly
+Alaska,Free Shipping,Weekly
+Mississippi,Next Day Air,Weekly
+New Mexico,Next Day Air,Bi-Weekly
+South Carolina,2-Day Shipping,Annually
+Mississippi,Store Pickup,Weekly
+West Virginia,Store Pickup,Fortnightly
+Missouri,Free Shipping,Monthly
+Louisiana,Standard,Weekly
+Idaho,Express,Weekly
+Texas,Store Pickup,Every 3 Months
+Mississippi,Free Shipping,Fortnightly
+Arizona,2-Day Shipping,Weekly
+Alabama,Standard,Fortnightly
+New Jersey,2-Day Shipping,Every 3 Months
+Pennsylvania,2-Day Shipping,Every 3 Months
+Connecticut,Store Pickup,Monthly
+Utah,Next Day Air,Every 3 Months
+Tennessee,Express,Weekly
+Alabama,Express,Every 3 Months
+Virginia,Express,Annually
+Georgia,Store Pickup,Every 3 Months
+Hawaii,Free Shipping,Bi-Weekly
+Indiana,Express,Monthly
+Utah,Free Shipping,Annually
+Delaware,Free Shipping,Monthly
+Delaware,Next Day Air,Fortnightly
+Nebraska,Free Shipping,Fortnightly
+Iowa,2-Day Shipping,Every 3 Months
+New York,Store Pickup,Every 3 Months
+Virginia,Express,Every 3 Months
+Georgia,2-Day Shipping,Every 3 Months
+Texas,Standard,Weekly
+Arizona,Standard,Every 3 Months
+New Mexico,Next Day Air,Bi-Weekly
+Nevada,2-Day Shipping,Bi-Weekly
+Ohio,2-Day Shipping,Fortnightly
+Wyoming,Free Shipping,Monthly
+California,Next Day Air,Quarterly
+South Carolina,Express,Monthly
+South Carolina,Standard,Every 3 Months
+Texas,2-Day Shipping,Every 3 Months
+Florida,Standard,Weekly
+Nevada,Free Shipping,Weekly
+Missouri,Free Shipping,Monthly
+Delaware,Express,Every 3 Months
+Virginia,Store Pickup,Annually
+New York,Next Day Air,Annually
+Missouri,Express,Quarterly
+South Dakota,Express,Fortnightly
+North Dakota,Express,Bi-Weekly
+Oklahoma,Next Day Air,Quarterly
+West Virginia,Next Day Air,Bi-Weekly
+New Hampshire,2-Day Shipping,Monthly
+New York,Next Day Air,Annually
+Minnesota,Standard,Monthly
+Maryland,Next Day Air,Fortnightly
+Montana,Next Day Air,Bi-Weekly
+Alabama,Next Day Air,Fortnightly
+New York,Standard,Fortnightly
+Massachusetts,Free Shipping,Annually
+Florida,Free Shipping,Bi-Weekly
+New Jersey,Next Day Air,Quarterly
+Massachusetts,Store Pickup,Weekly
+Wyoming,Standard,Every 3 Months
+Virginia,Free Shipping,Annually
+South Dakota,Express,Fortnightly
+Kentucky,2-Day Shipping,Bi-Weekly
+Wyoming,Express,Annually
+West Virginia,Express,Annually
+Virginia,Standard,Fortnightly
+Washington,2-Day Shipping,Fortnightly
+Louisiana,Free Shipping,Weekly
+Nevada,Next Day Air,Annually
+California,Next Day Air,Every 3 Months
+Mississippi,Store Pickup,Every 3 Months
+Mississippi,Next Day Air,Weekly
+California,Standard,Fortnightly
+Pennsylvania,2-Day Shipping,Bi-Weekly
+Kentucky,Next Day Air,Fortnightly
+Maine,Standard,Weekly
+New Mexico,2-Day Shipping,Weekly
+Montana,Next Day Air,Annually
+Texas,Store Pickup,Monthly
+Kansas,Express,Quarterly
+South Carolina,Free Shipping,Quarterly
+Colorado,Free Shipping,Weekly
+Georgia,Store Pickup,Weekly
+Florida,Store Pickup,Annually
+North Carolina,2-Day Shipping,Weekly
+Virginia,Free Shipping,Weekly
+Nebraska,Free Shipping,Fortnightly
+Missouri,Store Pickup,Quarterly
+New Jersey,Express,Monthly
+Missouri,Standard,Quarterly
+Colorado,Standard,Fortnightly
+Idaho,2-Day Shipping,Fortnightly
+Wyoming,Store Pickup,Annually
+Delaware,Free Shipping,Monthly
+California,Standard,Every 3 Months
+North Dakota,Next Day Air,Annually
+South Carolina,Express,Annually
+North Carolina,Standard,Annually
+Oklahoma,Next Day Air,Quarterly
+Maine,Free Shipping,Quarterly
+Missouri,Standard,Annually
+Vermont,Next Day Air,Fortnightly
+Connecticut,Standard,Monthly
+New Hampshire,Store Pickup,Every 3 Months
+Texas,Free Shipping,Monthly
+North Dakota,Express,Fortnightly
+California,Store Pickup,Bi-Weekly
+Virginia,Standard,Weekly
+Delaware,Free Shipping,Fortnightly
+Kentucky,Store Pickup,Monthly
+Delaware,Store Pickup,Monthly
+Arkansas,Express,Every 3 Months
+Louisiana,Express,Fortnightly
+Nevada,Standard,Every 3 Months
+Wyoming,Store Pickup,Bi-Weekly
+Virginia,Store Pickup,Weekly
+Nebraska,Next Day Air,Bi-Weekly
+Hawaii,Standard,Annually
+Vermont,Express,Annually
+Oklahoma,Next Day Air,Annually
+New Hampshire,Next Day Air,Quarterly
+Kansas,Next Day Air,Monthly
+Idaho,2-Day Shipping,Quarterly
+Illinois,Store Pickup,Fortnightly
+South Dakota,Store Pickup,Fortnightly
+Massachusetts,Next Day Air,Weekly
+Alabama,Store Pickup,Annually
+Ohio,2-Day Shipping,Weekly
+Hawaii,Express,Fortnightly
+Wisconsin,Store Pickup,Fortnightly
+Minnesota,Standard,Annually
+Georgia,Store Pickup,Bi-Weekly
+Arkansas,Express,Bi-Weekly
+West Virginia,Next Day Air,Weekly
+Indiana,Free Shipping,Quarterly
+Utah,Free Shipping,Every 3 Months
+Nebraska,Express,Bi-Weekly
+North Dakota,Standard,Annually
+Missouri,Express,Quarterly
+New York,Free Shipping,Monthly
+Washington,Next Day Air,Fortnightly
+South Carolina,2-Day Shipping,Monthly
+Utah,Standard,Fortnightly
+Idaho,Express,Weekly
+Pennsylvania,Next Day Air,Monthly
+Missouri,Free Shipping,Annually
+Nebraska,Express,Annually
+Indiana,Next Day Air,Weekly
+Arizona,Store Pickup,Bi-Weekly
+Hawaii,Standard,Weekly
+Wisconsin,Free Shipping,Fortnightly
+Rhode Island,Express,Bi-Weekly
+Wisconsin,Store Pickup,Monthly
+Minnesota,Store Pickup,Every 3 Months
+Vermont,2-Day Shipping,Fortnightly
+South Dakota,2-Day Shipping,Fortnightly
+Virginia,Express,Annually
+Nevada,Store Pickup,Every 3 Months
+Hawaii,Next Day Air,Every 3 Months
+New Jersey,2-Day Shipping,Bi-Weekly
+Massachusetts,Free Shipping,Weekly
+Oklahoma,Next Day Air,Annually
+California,Store Pickup,Quarterly
+Nevada,Free Shipping,Fortnightly
+Arizona,Express,Fortnightly
+North Carolina,Store Pickup,Quarterly
+New York,2-Day Shipping,Fortnightly
+Wyoming,Free Shipping,Annually
+South Dakota,Free Shipping,Every 3 Months
+Arkansas,Next Day Air,Annually
+Texas,Free Shipping,Monthly
+Rhode Island,Standard,Fortnightly
+New Hampshire,Store Pickup,Annually
+Ohio,Next Day Air,Every 3 Months
+Utah,Standard,Annually
+Tennessee,2-Day Shipping,Every 3 Months
+Hawaii,Express,Bi-Weekly
+Arizona,Next Day Air,Every 3 Months
+South Dakota,Next Day Air,Weekly
+New Jersey,Free Shipping,Quarterly
+North Dakota,Next Day Air,Fortnightly
+Iowa,Store Pickup,Fortnightly
+Ohio,Free Shipping,Annually
+Vermont,Express,Bi-Weekly
+Montana,Free Shipping,Fortnightly
+Delaware,Free Shipping,Bi-Weekly
+New York,Store Pickup,Every 3 Months
+Kentucky,2-Day Shipping,Monthly
+Oregon,2-Day Shipping,Weekly
+Rhode Island,Next Day Air,Fortnightly
+Nevada,Express,Bi-Weekly
+Montana,Standard,Weekly
+Pennsylvania,Express,Weekly
+Alaska,Standard,Annually
+Mississippi,Express,Weekly
+Wyoming,Standard,Annually
+Delaware,Free Shipping,Fortnightly
+Oklahoma,2-Day Shipping,Bi-Weekly
+Indiana,Store Pickup,Bi-Weekly
+Maryland,Free Shipping,Annually
+South Dakota,Express,Every 3 Months
+West Virginia,Express,Quarterly
+Alabama,Express,Quarterly
+Louisiana,Standard,Annually
+Montana,2-Day Shipping,Every 3 Months
+California,Standard,Annually
+Hawaii,Next Day Air,Annually
+Iowa,Store Pickup,Monthly
+Colorado,Store Pickup,Annually
+Michigan,2-Day Shipping,Bi-Weekly
+Louisiana,Express,Weekly
+Maryland,2-Day Shipping,Annually
+Georgia,Store Pickup,Monthly
+Georgia,Next Day Air,Bi-Weekly
+North Dakota,Free Shipping,Annually
+Maryland,Express,Fortnightly
+Oregon,2-Day Shipping,Bi-Weekly
+North Dakota,Express,Quarterly
+Maryland,Express,Bi-Weekly
+Virginia,Express,Weekly
+South Dakota,Express,Fortnightly
+Georgia,Store Pickup,Bi-Weekly
+Hawaii,Express,Annually
+Arkansas,Standard,Monthly
+Montana,2-Day Shipping,Bi-Weekly
+Oklahoma,Standard,Bi-Weekly
+Minnesota,2-Day Shipping,Monthly
+Montana,Next Day Air,Annually
+Ohio,Standard,Quarterly
+Kentucky,Express,Bi-Weekly
+Nebraska,Store Pickup,Annually
+Delaware,2-Day Shipping,Fortnightly
+North Carolina,2-Day Shipping,Bi-Weekly
+New York,2-Day Shipping,Monthly
+Colorado,Standard,Weekly
+Delaware,Next Day Air,Monthly
+Utah,Free Shipping,Quarterly
+Connecticut,Express,Annually
+New Jersey,Store Pickup,Every 3 Months
+West Virginia,Store Pickup,Quarterly
+Indiana,2-Day Shipping,Weekly
+Delaware,Standard,Bi-Weekly
+Maryland,Standard,Every 3 Months
+Pennsylvania,Next Day Air,Fortnightly
+Iowa,Store Pickup,Weekly
+Pennsylvania,Standard,Every 3 Months
+Delaware,Express,Every 3 Months
+Oregon,Next Day Air,Weekly
+Oregon,Next Day Air,Bi-Weekly
+Utah,2-Day Shipping,Annually
+North Dakota,Express,Annually
+Florida,Free Shipping,Every 3 Months
+Maryland,Standard,Bi-Weekly
+Minnesota,Standard,Fortnightly
+Montana,Standard,Fortnightly
+Rhode Island,Store Pickup,Monthly
+Massachusetts,Next Day Air,Annually
+Vermont,Express,Every 3 Months
+New Jersey,Store Pickup,Every 3 Months
+Wisconsin,Express,Annually
+California,Free Shipping,Monthly
+West Virginia,Standard,Every 3 Months
+South Dakota,Standard,Annually
+Maine,Standard,Every 3 Months
+Kansas,Standard,Quarterly
+Vermont,Free Shipping,Quarterly
+Tennessee,Standard,Monthly
+Tennessee,Next Day Air,Bi-Weekly
+Wyoming,Standard,Quarterly
+Vermont,Free Shipping,Annually
+New Jersey,Store Pickup,Weekly
+Iowa,Free Shipping,Weekly
+Florida,Free Shipping,Weekly
+Nevada,2-Day Shipping,Monthly
+North Dakota,Express,Bi-Weekly
+Florida,Store Pickup,Quarterly
+New York,2-Day Shipping,Monthly
+Alaska,Standard,Bi-Weekly
+Kansas,Next Day Air,Annually
+Oregon,Standard,Every 3 Months
+Rhode Island,Express,Annually
+New Mexico,2-Day Shipping,Annually
+Massachusetts,Express,Weekly
+Pennsylvania,2-Day Shipping,Every 3 Months
+New Jersey,Express,Every 3 Months
+Utah,Store Pickup,Bi-Weekly
+Kentucky,Next Day Air,Every 3 Months
+Nebraska,Next Day Air,Monthly
+Virginia,Standard,Monthly
+Wyoming,Next Day Air,Annually
+New Mexico,Next Day Air,Weekly
+Oregon,Store Pickup,Fortnightly
+South Carolina,Free Shipping,Fortnightly
+Arizona,2-Day Shipping,Bi-Weekly
+Kentucky,2-Day Shipping,Fortnightly
+New York,Standard,Bi-Weekly
+Texas,Next Day Air,Every 3 Months
+Missouri,Store Pickup,Monthly
+Pennsylvania,Free Shipping,Weekly
+Oregon,2-Day Shipping,Every 3 Months
+Nevada,Standard,Weekly
+Arkansas,Standard,Bi-Weekly
+Minnesota,Express,Every 3 Months
+Georgia,Store Pickup,Every 3 Months
+Rhode Island,Standard,Fortnightly
+Nevada,Free Shipping,Annually
+Texas,Free Shipping,Fortnightly
+Florida,Free Shipping,Fortnightly
+North Dakota,Free Shipping,Every 3 Months
+West Virginia,Standard,Quarterly
+Nebraska,Store Pickup,Fortnightly
+Tennessee,Store Pickup,Monthly
+Oklahoma,Standard,Monthly
+Wisconsin,Store Pickup,Quarterly
+Oregon,Express,Weekly
+North Carolina,2-Day Shipping,Monthly
+Pennsylvania,Standard,Weekly
+North Dakota,Express,Bi-Weekly
+Ohio,Store Pickup,Monthly
+Oklahoma,Standard,Quarterly
+South Carolina,Express,Bi-Weekly
+Maine,Standard,Every 3 Months
+Nevada,Next Day Air,Monthly
+Montana,2-Day Shipping,Bi-Weekly
+New Hampshire,Store Pickup,Weekly
+Maine,Store Pickup,Every 3 Months
+California,Store Pickup,Quarterly
+West Virginia,Standard,Quarterly
+California,2-Day Shipping,Annually
+West Virginia,Next Day Air,Bi-Weekly
+Louisiana,Express,Quarterly
+Georgia,Store Pickup,Fortnightly
+Washington,Store Pickup,Quarterly
+Virginia,Standard,Monthly
+Indiana,2-Day Shipping,Annually
+Minnesota,Standard,Fortnightly
+Idaho,Next Day Air,Annually
+Vermont,Standard,Fortnightly
+North Dakota,Store Pickup,Bi-Weekly
+Rhode Island,Store Pickup,Annually
+South Carolina,Standard,Annually
+Mississippi,Free Shipping,Annually
+Montana,Free Shipping,Every 3 Months
+Idaho,2-Day Shipping,Monthly
+Utah,Free Shipping,Fortnightly
+Oklahoma,Standard,Quarterly
+California,Express,Monthly
+Nevada,Next Day Air,Annually
+Delaware,Store Pickup,Monthly
+South Carolina,Standard,Annually
+Maryland,Express,Monthly
+North Carolina,Next Day Air,Bi-Weekly
+Alabama,Express,Fortnightly
+Minnesota,2-Day Shipping,Monthly
+Virginia,2-Day Shipping,Quarterly
+Michigan,Express,Annually
+Maine,Store Pickup,Weekly
+Nevada,Free Shipping,Monthly
+Wyoming,Store Pickup,Weekly
+Connecticut,Express,Monthly
+Oregon,Free Shipping,Fortnightly
+Mississippi,Free Shipping,Quarterly
+Illinois,Standard,Bi-Weekly
+Utah,Free Shipping,Every 3 Months
+North Carolina,Free Shipping,Bi-Weekly
+Kentucky,Standard,Bi-Weekly
+Minnesota,Store Pickup,Annually
+New York,Store Pickup,Bi-Weekly
+Illinois,Standard,Fortnightly
+North Dakota,Store Pickup,Quarterly
+Louisiana,Express,Quarterly
+Illinois,Store Pickup,Quarterly
+Wyoming,Free Shipping,Fortnightly
+Washington,2-Day Shipping,Fortnightly
+Texas,Store Pickup,Annually
+New Hampshire,Store Pickup,Fortnightly
+Indiana,Free Shipping,Weekly
+Alabama,Store Pickup,Fortnightly
+Oklahoma,Store Pickup,Every 3 Months
+Montana,Next Day Air,Monthly
+Tennessee,Free Shipping,Weekly
+New Mexico,Next Day Air,Annually
+Iowa,Express,Fortnightly
+Idaho,Free Shipping,Monthly
+Oklahoma,Store Pickup,Fortnightly
+Florida,Standard,Annually
+Michigan,Store Pickup,Quarterly
+Hawaii,Free Shipping,Annually
+California,Store Pickup,Annually
+Iowa,Standard,Annually
+West Virginia,Store Pickup,Monthly
+Washington,Standard,Every 3 Months
+Missouri,Next Day Air,Fortnightly
+New York,2-Day Shipping,Monthly
+Connecticut,Store Pickup,Monthly
+Virginia,Express,Fortnightly
+Missouri,Express,Fortnightly
+Nebraska,Next Day Air,Weekly
+New Jersey,Next Day Air,Bi-Weekly
+Utah,Store Pickup,Fortnightly
+North Carolina,2-Day Shipping,Quarterly
+Rhode Island,Next Day Air,Every 3 Months
+Arkansas,2-Day Shipping,Monthly
+Maryland,Standard,Fortnightly
+South Carolina,Store Pickup,Weekly
+Ohio,Express,Weekly
+Illinois,Express,Every 3 Months
+Georgia,Standard,Weekly
+Alabama,Next Day Air,Monthly
+Oklahoma,Next Day Air,Quarterly
+Vermont,Free Shipping,Weekly
+Nebraska,2-Day Shipping,Every 3 Months
+Georgia,Free Shipping,Quarterly
+Alabama,2-Day Shipping,Bi-Weekly
+Minnesota,Express,Every 3 Months
+Missouri,2-Day Shipping,Quarterly
+Georgia,Free Shipping,Quarterly
+West Virginia,Store Pickup,Every 3 Months
+Arkansas,2-Day Shipping,Quarterly
+Ohio,Free Shipping,Annually
+Connecticut,Free Shipping,Fortnightly
+North Dakota,Free Shipping,Weekly
+Kansas,Free Shipping,Annually
+Iowa,Store Pickup,Monthly
+Vermont,Standard,Bi-Weekly
+Wisconsin,2-Day Shipping,Fortnightly
+Connecticut,2-Day Shipping,Annually
+Oklahoma,Store Pickup,Weekly
+Missouri,Free Shipping,Quarterly
+Tennessee,Next Day Air,Fortnightly
+New Mexico,Store Pickup,Every 3 Months
+Iowa,Store Pickup,Quarterly
+Maine,Standard,Weekly
+South Dakota,Standard,Annually
+Colorado,2-Day Shipping,Monthly
+Vermont,2-Day Shipping,Bi-Weekly
+Michigan,Standard,Weekly
+Nevada,Store Pickup,Bi-Weekly
+Indiana,Express,Weekly
+Michigan,Free Shipping,Fortnightly
+California,Express,Fortnightly
+Oklahoma,Free Shipping,Weekly
+Iowa,Free Shipping,Monthly
+Rhode Island,Express,Monthly
+Washington,Next Day Air,Every 3 Months
+Florida,Next Day Air,Annually
+South Carolina,Express,Fortnightly
+West Virginia,Next Day Air,Quarterly
+Missouri,Free Shipping,Annually
+Maine,Express,Bi-Weekly
+Georgia,2-Day Shipping,Annually
+Maine,Store Pickup,Fortnightly
+Illinois,Store Pickup,Quarterly
+Delaware,Free Shipping,Weekly
+West Virginia,2-Day Shipping,Annually
+Hawaii,Free Shipping,Annually
+New York,Next Day Air,Monthly
+New Mexico,Store Pickup,Annually
+Indiana,Standard,Quarterly
+Kentucky,Next Day Air,Monthly
+West Virginia,2-Day Shipping,Bi-Weekly
+North Dakota,Free Shipping,Every 3 Months
+Oregon,Next Day Air,Every 3 Months
+Minnesota,2-Day Shipping,Quarterly
+South Carolina,Free Shipping,Quarterly
+Vermont,Standard,Annually
+Minnesota,Store Pickup,Quarterly
+Delaware,Express,Quarterly
+Pennsylvania,Free Shipping,Annually
+Iowa,Next Day Air,Monthly
+New Jersey,Standard,Monthly
+South Carolina,Next Day Air,Every 3 Months
+Maryland,Express,Annually
+California,Standard,Monthly
+Montana,Store Pickup,Bi-Weekly
+Vermont,Next Day Air,Weekly
+Texas,Express,Every 3 Months
+North Carolina,Next Day Air,Weekly
+Florida,Next Day Air,Quarterly
+West Virginia,Free Shipping,Weekly
+Illinois,Store Pickup,Every 3 Months
+Virginia,Store Pickup,Annually
+Virginia,Free Shipping,Weekly
+Wyoming,Store Pickup,Weekly
+South Carolina,Next Day Air,Every 3 Months
+Connecticut,Next Day Air,Bi-Weekly
+Illinois,Next Day Air,Bi-Weekly
+Alabama,Express,Monthly
+Washington,Standard,Every 3 Months
+Alabama,2-Day Shipping,Annually
+New Mexico,Free Shipping,Bi-Weekly
+Nevada,Free Shipping,Weekly
+Nebraska,Store Pickup,Every 3 Months
+Arizona,Express,Bi-Weekly
+Georgia,Store Pickup,Weekly
+Idaho,2-Day Shipping,Bi-Weekly
+Missouri,Express,Weekly
+Florida,Express,Quarterly
+Minnesota,Express,Weekly
+Maine,Express,Annually
+Montana,Store Pickup,Fortnightly
+Alaska,Free Shipping,Weekly
+Iowa,Express,Every 3 Months
+Arizona,Store Pickup,Monthly
+Louisiana,Free Shipping,Annually
+Alabama,Next Day Air,Fortnightly
+Missouri,Standard,Annually
+Idaho,Standard,Quarterly
+Florida,Next Day Air,Weekly
+Idaho,Store Pickup,Weekly
+Alabama,Store Pickup,Fortnightly
+New Hampshire,Next Day Air,Fortnightly
+Utah,Free Shipping,Monthly
+Alabama,Express,Every 3 Months
+Iowa,Standard,Annually
+Kentucky,Free Shipping,Weekly
+South Carolina,Next Day Air,Annually
+California,2-Day Shipping,Bi-Weekly
+Maine,Free Shipping,Bi-Weekly
+Nebraska,Express,Monthly
+Washington,2-Day Shipping,Every 3 Months
+Alabama,Store Pickup,Annually
+Maine,Next Day Air,Fortnightly
+California,Free Shipping,Annually
+Iowa,Free Shipping,Weekly
+Iowa,Store Pickup,Every 3 Months
+Colorado,Store Pickup,Quarterly
+California,Store Pickup,Monthly
+Indiana,Free Shipping,Monthly
+South Carolina,Next Day Air,Every 3 Months
+Wisconsin,2-Day Shipping,Annually
+Washington,Express,Every 3 Months
+South Dakota,Standard,Quarterly
+Minnesota,2-Day Shipping,Annually
+Alaska,Standard,Fortnightly
+Kentucky,Store Pickup,Bi-Weekly
+North Dakota,Free Shipping,Every 3 Months
+Alaska,Store Pickup,Every 3 Months
+Oklahoma,Next Day Air,Monthly
+Delaware,Next Day Air,Quarterly
+Montana,Store Pickup,Annually
+Alaska,Standard,Fortnightly
+California,2-Day Shipping,Every 3 Months
+Massachusetts,Standard,Every 3 Months
+South Carolina,2-Day Shipping,Monthly
+West Virginia,Store Pickup,Fortnightly
+Oregon,Next Day Air,Every 3 Months
+Massachusetts,2-Day Shipping,Every 3 Months
+West Virginia,Store Pickup,Every 3 Months
+California,Standard,Weekly
+Colorado,Standard,Monthly
+Indiana,Next Day Air,Monthly
+Delaware,Next Day Air,Every 3 Months
+Ohio,Next Day Air,Fortnightly
+Oklahoma,Free Shipping,Every 3 Months
+California,Store Pickup,Monthly
+New Hampshire,Express,Quarterly
+Pennsylvania,Standard,Bi-Weekly
+Idaho,Standard,Bi-Weekly
+Maryland,Next Day Air,Annually
+Pennsylvania,Free Shipping,Every 3 Months
+Colorado,Standard,Quarterly
+Indiana,Express,Bi-Weekly
+Nebraska,Store Pickup,Every 3 Months
+Rhode Island,2-Day Shipping,Every 3 Months
+Kansas,Store Pickup,Weekly
+Georgia,Next Day Air,Fortnightly
+Nevada,Standard,Bi-Weekly
+South Carolina,Express,Annually
+Delaware,Next Day Air,Weekly
+New Hampshire,Standard,Annually
+Oregon,Express,Monthly
+Massachusetts,2-Day Shipping,Monthly
+Vermont,Standard,Annually
+Mississippi,2-Day Shipping,Annually
+Washington,Store Pickup,Fortnightly
+Wyoming,Next Day Air,Fortnightly
+Minnesota,Express,Quarterly
+Ohio,Standard,Weekly
+South Carolina,2-Day Shipping,Quarterly
+Wisconsin,Store Pickup,Every 3 Months
+Tennessee,2-Day Shipping,Fortnightly
+Maryland,Express,Monthly
+Mississippi,2-Day Shipping,Annually
+Minnesota,Store Pickup,Fortnightly
+Alaska,2-Day Shipping,Every 3 Months
+Arkansas,2-Day Shipping,Bi-Weekly
+Oregon,Next Day Air,Every 3 Months
+Louisiana,Next Day Air,Weekly
+Oklahoma,Express,Bi-Weekly
+Indiana,Standard,Bi-Weekly
+Mississippi,Express,Fortnightly
+Michigan,Store Pickup,Weekly
+Delaware,Store Pickup,Every 3 Months
+Florida,Next Day Air,Annually
+Arkansas,Next Day Air,Fortnightly
+Minnesota,Free Shipping,Weekly
+North Dakota,2-Day Shipping,Fortnightly
+California,2-Day Shipping,Annually
+Mississippi,Free Shipping,Monthly
+Pennsylvania,Standard,Quarterly
+Arizona,Free Shipping,Quarterly
+Louisiana,Store Pickup,Weekly
+Virginia,2-Day Shipping,Weekly
+Montana,2-Day Shipping,Quarterly
+Iowa,Store Pickup,Quarterly
+Illinois,Express,Bi-Weekly
+Alaska,Express,Monthly
+Colorado,Express,Bi-Weekly
+New Mexico,2-Day Shipping,Annually
+Colorado,Free Shipping,Quarterly
+Arizona,Standard,Quarterly
+Hawaii,Express,Monthly
+Illinois,Free Shipping,Bi-Weekly
+Louisiana,Next Day Air,Bi-Weekly
+Iowa,Express,Weekly
+Washington,2-Day Shipping,Quarterly
+Oklahoma,Free Shipping,Bi-Weekly
+Washington,Store Pickup,Annually
+Arkansas,2-Day Shipping,Annually
+Connecticut,2-Day Shipping,Bi-Weekly
+Washington,Express,Annually
+Maine,Store Pickup,Every 3 Months
+Michigan,Express,Fortnightly
+Tennessee,Express,Annually
+Louisiana,2-Day Shipping,Every 3 Months
+Missouri,Standard,Bi-Weekly
+Michigan,Free Shipping,Monthly
+Alabama,Express,Monthly
+Massachusetts,Standard,Fortnightly
+Indiana,2-Day Shipping,Fortnightly
+West Virginia,Free Shipping,Quarterly
+Michigan,Store Pickup,Monthly
+Pennsylvania,Express,Every 3 Months
+Alaska,Standard,Weekly
+Massachusetts,Standard,Bi-Weekly
+North Dakota,2-Day Shipping,Every 3 Months
+Vermont,Free Shipping,Every 3 Months
+Kentucky,2-Day Shipping,Every 3 Months
+Nevada,Next Day Air,Every 3 Months
+Utah,Standard,Monthly
+North Dakota,Free Shipping,Quarterly
+Iowa,Standard,Weekly
+Connecticut,2-Day Shipping,Weekly
+Wisconsin,Standard,Monthly
+Idaho,Next Day Air,Every 3 Months
+Montana,Store Pickup,Weekly
+Connecticut,Standard,Weekly
+Idaho,Express,Annually
+Arkansas,Free Shipping,Quarterly
+Iowa,Express,Weekly
+Louisiana,Next Day Air,Annually
+Kentucky,Store Pickup,Fortnightly
+Massachusetts,Standard,Monthly
+Virginia,Standard,Fortnightly
+New Hampshire,2-Day Shipping,Bi-Weekly
+New Hampshire,Next Day Air,Quarterly
+Oregon,Express,Bi-Weekly
+South Dakota,Store Pickup,Fortnightly
+Delaware,Express,Quarterly
+Missouri,Express,Bi-Weekly
+Alaska,Express,Every 3 Months
+Florida,Standard,Annually
+Mississippi,Next Day Air,Bi-Weekly
+New Mexico,Free Shipping,Weekly
+California,Next Day Air,Every 3 Months
+Wyoming,Store Pickup,Bi-Weekly
+Missouri,Express,Monthly
+New Hampshire,Store Pickup,Every 3 Months
+Texas,Standard,Fortnightly
+North Dakota,Next Day Air,Every 3 Months
+Arkansas,Next Day Air,Every 3 Months
+Nebraska,Next Day Air,Every 3 Months
+Minnesota,Express,Every 3 Months
+Massachusetts,Standard,Fortnightly
+Arkansas,Free Shipping,Fortnightly
+New Hampshire,Express,Bi-Weekly
+Rhode Island,2-Day Shipping,Bi-Weekly
+New Jersey,Express,Every 3 Months
+Montana,2-Day Shipping,Bi-Weekly
+Colorado,2-Day Shipping,Every 3 Months
+Nebraska,Store Pickup,Annually
+Minnesota,2-Day Shipping,Quarterly
+Minnesota,Free Shipping,Bi-Weekly
+South Dakota,Next Day Air,Fortnightly
+West Virginia,Free Shipping,Every 3 Months
+Nevada,Express,Quarterly
+North Carolina,Free Shipping,Weekly
+Illinois,Next Day Air,Bi-Weekly
+Michigan,Standard,Monthly
+Michigan,Free Shipping,Annually
+Oklahoma,Next Day Air,Weekly
+South Dakota,Free Shipping,Quarterly
+Oklahoma,Standard,Quarterly
+Maryland,Free Shipping,Annually
+Ohio,Free Shipping,Monthly
+Ohio,2-Day Shipping,Every 3 Months
+Massachusetts,Store Pickup,Quarterly
+North Carolina,Store Pickup,Quarterly
+Florida,Free Shipping,Weekly
+Montana,Standard,Fortnightly
+Minnesota,Store Pickup,Quarterly
+Massachusetts,2-Day Shipping,Every 3 Months
+Rhode Island,Next Day Air,Fortnightly
+Minnesota,Free Shipping,Annually
+Nevada,Express,Weekly
+New Mexico,Standard,Fortnightly
+North Carolina,2-Day Shipping,Monthly
+Virginia,Free Shipping,Quarterly
+Alaska,Store Pickup,Quarterly
+Nevada,Next Day Air,Monthly
+Pennsylvania,Next Day Air,Annually
+Illinois,Express,Weekly
+Delaware,Store Pickup,Monthly
+Vermont,Express,Annually
+Hawaii,Next Day Air,Fortnightly
+Illinois,Free Shipping,Bi-Weekly
+California,Express,Bi-Weekly
+Nevada,Standard,Quarterly
+Kentucky,Store Pickup,Monthly
+Alabama,Standard,Every 3 Months
+Wyoming,Express,Weekly
+Massachusetts,Store Pickup,Annually
+Utah,Express,Annually
+New York,Free Shipping,Quarterly
+Vermont,Store Pickup,Fortnightly
+Hawaii,Standard,Weekly
+Louisiana,Next Day Air,Fortnightly
+Alabama,Store Pickup,Every 3 Months
+Louisiana,Next Day Air,Fortnightly
+Indiana,Express,Every 3 Months
+Michigan,Free Shipping,Weekly
+Rhode Island,Store Pickup,Quarterly
+Idaho,Standard,Bi-Weekly
+Louisiana,Store Pickup,Quarterly
+North Carolina,2-Day Shipping,Fortnightly
+New Jersey,Next Day Air,Weekly
+Alabama,Free Shipping,Monthly
+Kentucky,Store Pickup,Fortnightly
+New York,Store Pickup,Annually
+Arizona,2-Day Shipping,Annually
+Maryland,2-Day Shipping,Weekly
+Alaska,2-Day Shipping,Every 3 Months
+Nevada,Free Shipping,Annually
+Utah,Free Shipping,Every 3 Months
+New Mexico,Express,Fortnightly
+Delaware,Next Day Air,Weekly
+Connecticut,Express,Every 3 Months
+Mississippi,Store Pickup,Quarterly
+Connecticut,Next Day Air,Monthly
+Florida,Standard,Quarterly
+New York,Express,Weekly
+Wisconsin,Next Day Air,Every 3 Months
+South Carolina,Next Day Air,Bi-Weekly
+South Dakota,Store Pickup,Bi-Weekly
+Illinois,Free Shipping,Quarterly
+Alaska,Standard,Weekly
+Montana,Store Pickup,Annually
+Minnesota,Express,Monthly
+West Virginia,Next Day Air,Bi-Weekly
+Illinois,Store Pickup,Monthly
+Nevada,Store Pickup,Fortnightly
+Idaho,Store Pickup,Monthly
+Colorado,Next Day Air,Quarterly
+Louisiana,2-Day Shipping,Monthly
+Vermont,Standard,Bi-Weekly
+Mississippi,Standard,Annually
+Georgia,Free Shipping,Quarterly
+Georgia,Store Pickup,Quarterly
+Nebraska,Next Day Air,Monthly
+Massachusetts,Standard,Weekly
+Colorado,Free Shipping,Fortnightly
+Nevada,2-Day Shipping,Bi-Weekly
+Idaho,2-Day Shipping,Fortnightly
+Wyoming,Express,Annually
+Washington,Express,Every 3 Months
+California,Express,Bi-Weekly
+Oklahoma,Standard,Annually
+Nevada,Free Shipping,Weekly
+Maryland,Next Day Air,Weekly
+West Virginia,Store Pickup,Bi-Weekly
+Illinois,Express,Every 3 Months
+Kentucky,Express,Annually
+Illinois,Free Shipping,Every 3 Months
+Alabama,2-Day Shipping,Weekly
+Texas,Store Pickup,Fortnightly
+Missouri,Express,Weekly
+Pennsylvania,Express,Weekly
+Missouri,Express,Bi-Weekly
+Michigan,Standard,Monthly
+Kentucky,Express,Quarterly
+New Jersey,Standard,Monthly
+Delaware,Store Pickup,Bi-Weekly
+Missouri,Express,Quarterly
+Connecticut,Store Pickup,Monthly
+Massachusetts,Express,Monthly
+Florida,Next Day Air,Every 3 Months
+Delaware,Free Shipping,Monthly
+California,Free Shipping,Monthly
+Oregon,2-Day Shipping,Quarterly
+Alaska,Express,Fortnightly
+Missouri,Standard,Every 3 Months
+Oklahoma,Free Shipping,Weekly
+Wisconsin,Next Day Air,Monthly
+South Carolina,Standard,Monthly
+Virginia,2-Day Shipping,Every 3 Months
+Arkansas,Standard,Fortnightly
+Vermont,Standard,Fortnightly
+Kentucky,Next Day Air,Annually
+Colorado,Store Pickup,Annually
+New Mexico,Free Shipping,Bi-Weekly
+Colorado,Free Shipping,Fortnightly
+North Carolina,Next Day Air,Every 3 Months
+New Hampshire,2-Day Shipping,Weekly
+West Virginia,Standard,Bi-Weekly
+Hawaii,Next Day Air,Quarterly
+North Dakota,Standard,Quarterly
+Mississippi,Free Shipping,Quarterly
+Maine,Free Shipping,Every 3 Months
+North Dakota,Free Shipping,Every 3 Months
+Nebraska,2-Day Shipping,Weekly
+Nebraska,Next Day Air,Every 3 Months
+Tennessee,Express,Weekly
+Wyoming,Free Shipping,Quarterly
+Nevada,Express,Monthly
+South Carolina,Next Day Air,Annually
+Virginia,Next Day Air,Every 3 Months
+Pennsylvania,Free Shipping,Monthly
+Hawaii,Express,Weekly
+Ohio,Free Shipping,Every 3 Months
+Utah,Express,Monthly
+Minnesota,2-Day Shipping,Fortnightly
+New Hampshire,Express,Annually
+Arizona,Free Shipping,Weekly
+New York,2-Day Shipping,Monthly
+Pennsylvania,Store Pickup,Every 3 Months
+New Mexico,Free Shipping,Monthly
+Nebraska,Express,Monthly
+Wyoming,Free Shipping,Quarterly
+Mississippi,Next Day Air,Quarterly
+Arkansas,Express,Fortnightly
+Illinois,Express,Weekly
+Nevada,2-Day Shipping,Every 3 Months
+Rhode Island,Standard,Annually
+West Virginia,Free Shipping,Quarterly
+Missouri,2-Day Shipping,Monthly
+Kentucky,Next Day Air,Monthly
+Washington,Express,Quarterly
+Alaska,Free Shipping,Every 3 Months
+Mississippi,Standard,Annually
+South Carolina,Standard,Bi-Weekly
+Missouri,Express,Bi-Weekly
+New Jersey,Free Shipping,Every 3 Months
+Louisiana,Express,Weekly
+South Carolina,Express,Monthly
+Vermont,2-Day Shipping,Quarterly
+Arkansas,Next Day Air,Monthly
+Utah,Next Day Air,Every 3 Months
+Washington,Standard,Every 3 Months
+Rhode Island,Store Pickup,Fortnightly
+Illinois,Standard,Monthly
+Missouri,Standard,Quarterly
+North Carolina,2-Day Shipping,Fortnightly
+Massachusetts,2-Day Shipping,Bi-Weekly
+Arkansas,Free Shipping,Weekly
+South Dakota,Express,Weekly
+Georgia,Standard,Monthly
+Arkansas,2-Day Shipping,Weekly
+Kansas,Standard,Quarterly
+Arizona,Express,Monthly
+Massachusetts,Express,Bi-Weekly
+New Mexico,Standard,Bi-Weekly
+Arkansas,Store Pickup,Every 3 Months
+Nebraska,2-Day Shipping,Fortnightly
+Hawaii,Store Pickup,Bi-Weekly
+Nebraska,Standard,Fortnightly
+Indiana,Standard,Bi-Weekly
+Colorado,Store Pickup,Monthly
+Oregon,Express,Monthly
+Ohio,Store Pickup,Fortnightly
+Maine,Free Shipping,Weekly
+Iowa,Express,Quarterly
+Wisconsin,Free Shipping,Fortnightly
+New York,Next Day Air,Monthly
+Colorado,Store Pickup,Every 3 Months
+Illinois,2-Day Shipping,Every 3 Months
+Arizona,Express,Bi-Weekly
+Oklahoma,Next Day Air,Fortnightly
+Indiana,Express,Bi-Weekly
+Minnesota,Store Pickup,Every 3 Months
+Pennsylvania,Next Day Air,Quarterly
+Indiana,Store Pickup,Every 3 Months
+Alabama,Express,Every 3 Months
+Montana,Standard,Monthly
+New Mexico,Free Shipping,Quarterly
+Alaska,Express,Monthly
+Idaho,2-Day Shipping,Monthly
+Utah,2-Day Shipping,Quarterly
+Louisiana,Standard,Every 3 Months
+Mississippi,Free Shipping,Monthly
+Mississippi,2-Day Shipping,Quarterly
+Indiana,Store Pickup,Quarterly
+Washington,Free Shipping,Bi-Weekly
+Nevada,Standard,Fortnightly
+Louisiana,Standard,Quarterly
+Pennsylvania,Next Day Air,Quarterly
+Michigan,Standard,Fortnightly
+South Carolina,2-Day Shipping,Weekly
+Arizona,Next Day Air,Bi-Weekly
+Delaware,Store Pickup,Annually
+Kentucky,Express,Annually
+Georgia,Store Pickup,Weekly
+North Carolina,Next Day Air,Quarterly
+California,Express,Monthly
+California,Free Shipping,Monthly
+Indiana,Next Day Air,Weekly
+Colorado,Standard,Weekly
+Colorado,2-Day Shipping,Quarterly
+North Carolina,2-Day Shipping,Monthly
+Washington,2-Day Shipping,Weekly
+Florida,Express,Every 3 Months
+Washington,Express,Bi-Weekly
+Colorado,Standard,Weekly
+New Hampshire,Store Pickup,Monthly
+Maryland,Free Shipping,Every 3 Months
+Maryland,Next Day Air,Quarterly
+Texas,Standard,Monthly
+New Mexico,Free Shipping,Bi-Weekly
+Utah,Free Shipping,Bi-Weekly
+West Virginia,Express,Annually
+Connecticut,Store Pickup,Monthly
+West Virginia,Express,Weekly
+Ohio,2-Day Shipping,Fortnightly
+Texas,Store Pickup,Monthly
+Washington,Store Pickup,Weekly
+Wisconsin,Standard,Bi-Weekly
+Louisiana,Express,Weekly
+Iowa,Store Pickup,Weekly
+New York,Express,Monthly
+Idaho,2-Day Shipping,Weekly
+Delaware,Standard,Quarterly
+Kentucky,Express,Fortnightly
+Connecticut,Next Day Air,Bi-Weekly
+New Mexico,Standard,Monthly
+Georgia,Express,Bi-Weekly
+Washington,Standard,Fortnightly
+North Dakota,Store Pickup,Bi-Weekly
+Ohio,Store Pickup,Bi-Weekly
+Tennessee,2-Day Shipping,Annually
+New York,Store Pickup,Bi-Weekly
+Michigan,Next Day Air,Quarterly
+Georgia,Standard,Annually
+New Mexico,Store Pickup,Annually
+Louisiana,Express,Annually
+South Dakota,2-Day Shipping,Fortnightly
+Montana,Next Day Air,Fortnightly
+New Mexico,Express,Annually
+South Carolina,2-Day Shipping,Bi-Weekly
+Ohio,Standard,Fortnightly
+North Carolina,Standard,Weekly
+Idaho,Express,Every 3 Months
+Oklahoma,Express,Annually
+Georgia,Next Day Air,Weekly
+Kentucky,Standard,Bi-Weekly
+Delaware,Express,Annually
+Massachusetts,2-Day Shipping,Weekly
+Nebraska,Store Pickup,Annually
+Maine,Free Shipping,Every 3 Months
+Pennsylvania,Free Shipping,Quarterly
+Nebraska,Free Shipping,Annually
+Virginia,Express,Bi-Weekly
+Ohio,Next Day Air,Monthly
+Nebraska,Standard,Fortnightly
+Ohio,2-Day Shipping,Bi-Weekly
+Kentucky,Next Day Air,Quarterly
+Tennessee,Free Shipping,Quarterly
+Maine,Free Shipping,Quarterly
+Montana,Free Shipping,Quarterly
+Maryland,Next Day Air,Weekly
+Georgia,Express,Annually
+Hawaii,2-Day Shipping,Monthly
+Rhode Island,Standard,Quarterly
+Nebraska,Express,Weekly
+Michigan,Standard,Monthly
+North Carolina,Next Day Air,Fortnightly
+Minnesota,Next Day Air,Fortnightly
+Maryland,Next Day Air,Weekly
+Hawaii,2-Day Shipping,Fortnightly
+Oregon,Next Day Air,Every 3 Months
+New Mexico,2-Day Shipping,Bi-Weekly
+Illinois,Standard,Annually
+Utah,Standard,Fortnightly
+Maine,Standard,Fortnightly
+Virginia,Store Pickup,Quarterly
+Florida,Next Day Air,Monthly
+Ohio,Free Shipping,Annually
+Virginia,2-Day Shipping,Fortnightly
+Kansas,2-Day Shipping,Bi-Weekly
+Arkansas,Express,Quarterly
+Massachusetts,Next Day Air,Annually
+Idaho,2-Day Shipping,Fortnightly
+Wisconsin,2-Day Shipping,Weekly
+New Mexico,Next Day Air,Every 3 Months
+North Carolina,Standard,Monthly
+Iowa,Next Day Air,Every 3 Months
+Idaho,Free Shipping,Every 3 Months
+Ohio,Next Day Air,Every 3 Months
+Alabama,Free Shipping,Monthly
+Wyoming,Express,Every 3 Months
+Alabama,Store Pickup,Every 3 Months
+Mississippi,Store Pickup,Bi-Weekly
+Pennsylvania,2-Day Shipping,Quarterly
+Wyoming,Standard,Weekly
+Maryland,Next Day Air,Every 3 Months
+North Carolina,Free Shipping,Weekly
+Pennsylvania,Express,Monthly
+Idaho,Express,Fortnightly
+California,Store Pickup,Monthly
+Tennessee,Standard,Fortnightly
+Missouri,Next Day Air,Bi-Weekly
+North Dakota,Standard,Bi-Weekly
+West Virginia,Standard,Quarterly
+Arizona,Express,Fortnightly
+Oklahoma,Free Shipping,Monthly
+Pennsylvania,Express,Every 3 Months
+Idaho,Standard,Annually
+South Carolina,Next Day Air,Quarterly
+Washington,Store Pickup,Weekly
+Arkansas,Next Day Air,Quarterly
+Utah,Store Pickup,Fortnightly
+Alaska,Free Shipping,Bi-Weekly
+West Virginia,Next Day Air,Monthly
+Louisiana,Free Shipping,Weekly
+Arizona,Next Day Air,Bi-Weekly
+Connecticut,Store Pickup,Fortnightly
+North Carolina,Store Pickup,Fortnightly
+South Dakota,2-Day Shipping,Quarterly
+Delaware,2-Day Shipping,Every 3 Months
+Connecticut,Next Day Air,Quarterly
+Tennessee,Free Shipping,Quarterly
+New Hampshire,Standard,Annually
+Vermont,Store Pickup,Weekly
+Idaho,Next Day Air,Weekly
+North Carolina,Next Day Air,Fortnightly
+Nevada,Express,Weekly
+Delaware,Free Shipping,Fortnightly
+Texas,Express,Fortnightly
+Tennessee,Free Shipping,Bi-Weekly
+Delaware,Express,Quarterly
+Massachusetts,Next Day Air,Every 3 Months
+Minnesota,Store Pickup,Fortnightly
+Texas,Store Pickup,Weekly
+Nebraska,Standard,Fortnightly
+Oklahoma,Next Day Air,Weekly
+Texas,Standard,Bi-Weekly
+New York,Next Day Air,Bi-Weekly
+Washington,Free Shipping,Quarterly
+Maryland,Next Day Air,Bi-Weekly
+New Hampshire,Next Day Air,Every 3 Months
+New York,2-Day Shipping,Weekly
+Hawaii,Express,Fortnightly
+California,Store Pickup,Monthly
+Indiana,Standard,Every 3 Months
+Louisiana,Standard,Weekly
+Pennsylvania,Next Day Air,Monthly
+Florida,Express,Quarterly
+North Carolina,2-Day Shipping,Annually
+Massachusetts,Store Pickup,Monthly
+Iowa,Express,Quarterly
+North Dakota,2-Day Shipping,Weekly
+Iowa,Standard,Fortnightly
+Delaware,Store Pickup,Monthly
+New York,Next Day Air,Monthly
+New Hampshire,Express,Fortnightly
+Kentucky,Standard,Bi-Weekly
+Illinois,Express,Monthly
+North Carolina,Store Pickup,Fortnightly
+Connecticut,2-Day Shipping,Weekly
+Wisconsin,Express,Every 3 Months
+Massachusetts,2-Day Shipping,Quarterly
+Illinois,Free Shipping,Monthly
+New Mexico,2-Day Shipping,Every 3 Months
+Iowa,Express,Fortnightly
+Alabama,Standard,Bi-Weekly
+Maryland,Store Pickup,Every 3 Months
+Ohio,Next Day Air,Fortnightly
+Ohio,Store Pickup,Bi-Weekly
+Nevada,Standard,Quarterly
+South Carolina,2-Day Shipping,Fortnightly
+Nevada,Express,Every 3 Months
+Wisconsin,Standard,Every 3 Months
+Tennessee,Next Day Air,Annually
+Florida,Store Pickup,Fortnightly
+Georgia,Store Pickup,Annually
+Kentucky,Next Day Air,Bi-Weekly
+Ohio,Express,Weekly
+Connecticut,Standard,Every 3 Months
+Idaho,Free Shipping,Quarterly
+Georgia,2-Day Shipping,Bi-Weekly
+Tennessee,Express,Quarterly
+Hawaii,Express,Every 3 Months
+Maryland,Standard,Quarterly
+Nevada,2-Day Shipping,Annually
+New Hampshire,2-Day Shipping,Every 3 Months
+North Dakota,Next Day Air,Bi-Weekly
+Oklahoma,2-Day Shipping,Monthly
+North Carolina,Express,Weekly
+Tennessee,2-Day Shipping,Monthly
+Montana,Standard,Quarterly
+Wisconsin,Next Day Air,Every 3 Months
+Connecticut,Store Pickup,Fortnightly
+New Jersey,Free Shipping,Quarterly
+Mississippi,Standard,Fortnightly
+Wyoming,2-Day Shipping,Annually
+Illinois,Express,Bi-Weekly
+Louisiana,Next Day Air,Annually
+Oregon,Store Pickup,Bi-Weekly
+South Dakota,Express,Bi-Weekly
+Michigan,Express,Bi-Weekly
+New Jersey,Store Pickup,Quarterly
+Oregon,Free Shipping,Quarterly
+Iowa,Standard,Monthly
+South Carolina,Express,Annually
+Indiana,Free Shipping,Annually
+Oregon,Standard,Monthly
+New York,Free Shipping,Quarterly
+New Mexico,Express,Quarterly
+Louisiana,2-Day Shipping,Weekly
+South Carolina,Express,Annually
+Maine,Standard,Monthly
+Indiana,2-Day Shipping,Annually
+Iowa,Express,Every 3 Months
+Mississippi,Next Day Air,Weekly
+Arkansas,Free Shipping,Annually
+South Carolina,Next Day Air,Weekly
+Indiana,Free Shipping,Quarterly
+Florida,2-Day Shipping,Quarterly
+Alaska,2-Day Shipping,Fortnightly
+New York,2-Day Shipping,Fortnightly
+Texas,2-Day Shipping,Monthly
+North Dakota,2-Day Shipping,Bi-Weekly
+Vermont,Standard,Annually
+New Jersey,2-Day Shipping,Annually
+Maryland,Free Shipping,Weekly
+Connecticut,Store Pickup,Weekly
+Illinois,2-Day Shipping,Fortnightly
+Maryland,Standard,Every 3 Months
+Minnesota,Free Shipping,Annually
+Florida,2-Day Shipping,Every 3 Months
+California,Standard,Fortnightly
+Mississippi,Free Shipping,Every 3 Months
+Washington,Next Day Air,Every 3 Months
+Wisconsin,2-Day Shipping,Annually
+Pennsylvania,Next Day Air,Monthly
+Missouri,Next Day Air,Quarterly
+Oklahoma,Store Pickup,Every 3 Months
+Pennsylvania,Free Shipping,Weekly
+Kentucky,Express,Every 3 Months
+Vermont,Free Shipping,Every 3 Months
+Oregon,2-Day Shipping,Every 3 Months
+Utah,Free Shipping,Every 3 Months
+Nebraska,Free Shipping,Every 3 Months
+Pennsylvania,Store Pickup,Every 3 Months
+Vermont,Next Day Air,Bi-Weekly
+Kentucky,Express,Quarterly
+Iowa,Standard,Quarterly
+Indiana,Store Pickup,Annually
+Kansas,Free Shipping,Weekly
+Illinois,Store Pickup,Weekly
+North Carolina,Free Shipping,Weekly
+Ohio,Store Pickup,Bi-Weekly
+Illinois,Store Pickup,Bi-Weekly
+Indiana,Express,Annually
+Kansas,Express,Annually
+Illinois,Standard,Monthly
+Pennsylvania,2-Day Shipping,Fortnightly
+New York,Free Shipping,Every 3 Months
+Utah,Next Day Air,Every 3 Months
+New Jersey,Store Pickup,Bi-Weekly
+Idaho,Store Pickup,Every 3 Months
+New Mexico,Store Pickup,Every 3 Months
+Michigan,2-Day Shipping,Quarterly
+Wyoming,Express,Fortnightly
+New Jersey,Standard,Every 3 Months
+New Jersey,Store Pickup,Annually
+Hawaii,Express,Weekly
+Nevada,Next Day Air,Quarterly
+New Hampshire,Store Pickup,Annually
+Indiana,2-Day Shipping,Monthly
+New York,Standard,Weekly
+Louisiana,Standard,Monthly
+Virginia,Express,Bi-Weekly
+Wisconsin,Free Shipping,Annually
+Oregon,Express,Fortnightly
+New Hampshire,Free Shipping,Monthly
+Indiana,Next Day Air,Monthly
+Massachusetts,Standard,Quarterly
+Montana,Express,Annually
+California,2-Day Shipping,Bi-Weekly
+Indiana,Standard,Fortnightly
+West Virginia,Express,Fortnightly
+Minnesota,Free Shipping,Every 3 Months
+Ohio,2-Day Shipping,Every 3 Months
+Minnesota,Standard,Monthly
+Virginia,Store Pickup,Quarterly
+Connecticut,Next Day Air,Fortnightly
+Tennessee,Store Pickup,Monthly
+Delaware,2-Day Shipping,Bi-Weekly
+Vermont,Next Day Air,Bi-Weekly
+Louisiana,Next Day Air,Weekly
+North Dakota,Standard,Every 3 Months
+Oregon,Standard,Weekly
+Idaho,Next Day Air,Bi-Weekly
+Vermont,Standard,Quarterly
+West Virginia,Standard,Annually
+Kentucky,Store Pickup,Annually
+Wisconsin,Express,Monthly
+Mississippi,Next Day Air,Every 3 Months
+Missouri,2-Day Shipping,Quarterly
+Arkansas,Standard,Monthly
+Wyoming,Next Day Air,Weekly
+Rhode Island,Express,Quarterly
+Utah,Next Day Air,Fortnightly
+Maryland,Express,Annually
+Georgia,2-Day Shipping,Every 3 Months
+New Jersey,Store Pickup,Bi-Weekly
+New Hampshire,Free Shipping,Monthly
+Oregon,2-Day Shipping,Every 3 Months
+Arkansas,Express,Fortnightly
+North Carolina,Next Day Air,Fortnightly
+West Virginia,Next Day Air,Fortnightly
+Utah,Standard,Monthly
+South Dakota,Standard,Bi-Weekly
+New Hampshire,Next Day Air,Weekly
+Maryland,Free Shipping,Annually
+South Dakota,2-Day Shipping,Fortnightly
+Kentucky,Free Shipping,Annually
+Florida,Standard,Annually
+Texas,Standard,Every 3 Months
+New Mexico,Standard,Weekly
+South Dakota,Express,Bi-Weekly
+New Jersey,Standard,Annually
+Indiana,Free Shipping,Fortnightly
+Louisiana,2-Day Shipping,Bi-Weekly
+West Virginia,Next Day Air,Every 3 Months
+Maine,Express,Weekly
+Idaho,Next Day Air,Monthly
+New York,Next Day Air,Annually
+Montana,2-Day Shipping,Every 3 Months
+Mississippi,Express,Every 3 Months
+Alaska,Next Day Air,Annually
+Missouri,Express,Annually
+Rhode Island,Next Day Air,Every 3 Months
+Hawaii,Store Pickup,Quarterly
+South Carolina,Store Pickup,Every 3 Months
+Tennessee,Express,Annually
+Missouri,Store Pickup,Monthly
+Missouri,Free Shipping,Bi-Weekly
+Missouri,Free Shipping,Annually
+Mississippi,2-Day Shipping,Quarterly
+Arkansas,Standard,Bi-Weekly
+Kentucky,Free Shipping,Monthly
+Connecticut,Express,Bi-Weekly
+Oklahoma,Standard,Weekly
+California,Free Shipping,Annually
+Missouri,Express,Every 3 Months
+Washington,Next Day Air,Quarterly
+New York,Standard,Every 3 Months
+Indiana,Free Shipping,Fortnightly
+Oregon,Express,Monthly
+Texas,Free Shipping,Monthly
+Florida,Standard,Weekly
+Rhode Island,Standard,Weekly
+Texas,Express,Every 3 Months
+Vermont,Standard,Bi-Weekly
+Maryland,Standard,Bi-Weekly
+Alaska,Store Pickup,Quarterly
+Idaho,Next Day Air,Quarterly
+West Virginia,Store Pickup,Monthly
+Nevada,2-Day Shipping,Weekly
+Oregon,Store Pickup,Fortnightly
+Tennessee,Express,Bi-Weekly
+Alabama,Standard,Fortnightly
+Indiana,Next Day Air,Every 3 Months
+Idaho,Next Day Air,Every 3 Months
+Rhode Island,Standard,Quarterly
+Arizona,2-Day Shipping,Monthly
+Florida,Standard,Monthly
+New York,Next Day Air,Annually
+Nebraska,Standard,Weekly
+Mississippi,Free Shipping,Bi-Weekly
+Vermont,2-Day Shipping,Monthly
+Nebraska,Standard,Fortnightly
+South Carolina,Next Day Air,Bi-Weekly
+Delaware,Next Day Air,Every 3 Months
+Vermont,2-Day Shipping,Quarterly
+Indiana,Next Day Air,Bi-Weekly
+Oregon,Next Day Air,Every 3 Months
+Maryland,2-Day Shipping,Quarterly
+Florida,2-Day Shipping,Bi-Weekly
+Indiana,Free Shipping,Annually
+Texas,Next Day Air,Quarterly
+Nebraska,Store Pickup,Every 3 Months
+North Carolina,Store Pickup,Fortnightly
+Alabama,Express,Annually
+Alabama,Next Day Air,Monthly
+Colorado,Express,Weekly
+Wisconsin,Express,Quarterly
+Delaware,Express,Every 3 Months
+Indiana,Store Pickup,Fortnightly
+Iowa,Free Shipping,Fortnightly
+Iowa,Express,Quarterly
+Wisconsin,Express,Weekly
+Iowa,Standard,Fortnightly
+Montana,2-Day Shipping,Every 3 Months
+Mississippi,Store Pickup,Monthly
+Michigan,2-Day Shipping,Bi-Weekly
+Virginia,Store Pickup,Quarterly
+New York,Free Shipping,Quarterly
+Maine,2-Day Shipping,Annually
+New Jersey,Free Shipping,Annually
+Maryland,Next Day Air,Monthly
+Kentucky,Free Shipping,Weekly
+Minnesota,2-Day Shipping,Bi-Weekly
+Massachusetts,Standard,Fortnightly
+Illinois,Standard,Quarterly
+Michigan,Express,Quarterly
+Wisconsin,Express,Monthly
+Alaska,Standard,Weekly
+Mississippi,Store Pickup,Bi-Weekly
+Oregon,Next Day Air,Quarterly
+Maryland,Standard,Monthly
+Arkansas,Express,Quarterly
+Illinois,Store Pickup,Fortnightly
+Arkansas,Standard,Weekly
+Mississippi,Express,Annually
+Arkansas,Express,Every 3 Months
+Idaho,Express,Fortnightly
+Iowa,Next Day Air,Weekly
+West Virginia,Next Day Air,Bi-Weekly
+Wisconsin,Next Day Air,Monthly
+Massachusetts,Store Pickup,Annually
+Texas,Free Shipping,Weekly
+Nebraska,Store Pickup,Annually
+Nevada,Next Day Air,Every 3 Months
+Indiana,2-Day Shipping,Weekly
+North Dakota,Express,Monthly
+Georgia,Store Pickup,Bi-Weekly
+New Mexico,Next Day Air,Weekly
+New Hampshire,Store Pickup,Monthly
+Washington,Express,Monthly
+Nevada,Express,Annually
+Maine,Free Shipping,Weekly
+Idaho,Standard,Fortnightly
+Tennessee,Store Pickup,Annually
+Louisiana,Store Pickup,Quarterly
+Michigan,2-Day Shipping,Annually
+New Hampshire,Store Pickup,Quarterly
+Minnesota,Store Pickup,Bi-Weekly
+Illinois,Free Shipping,Every 3 Months
+Idaho,Free Shipping,Quarterly
+Montana,Standard,Fortnightly
+Alabama,2-Day Shipping,Every 3 Months
+Montana,Free Shipping,Quarterly
+California,Store Pickup,Every 3 Months
+Pennsylvania,Standard,Fortnightly
+Texas,Free Shipping,Bi-Weekly
+Michigan,Free Shipping,Every 3 Months
+Connecticut,Standard,Every 3 Months
+Wyoming,Next Day Air,Annually
+Michigan,Free Shipping,Every 3 Months
+South Dakota,Store Pickup,Annually
+North Dakota,Express,Quarterly
+Maryland,Standard,Every 3 Months
+Michigan,Free Shipping,Fortnightly
+South Dakota,Express,Quarterly
+Florida,Express,Quarterly
+Minnesota,Next Day Air,Weekly
+New York,Free Shipping,Bi-Weekly
+Oregon,Standard,Weekly
+Minnesota,Free Shipping,Fortnightly
+Montana,Free Shipping,Annually
+Washington,Standard,Monthly
+New Mexico,Next Day Air,Fortnightly
+Arizona,Standard,Monthly
+Nebraska,Free Shipping,Every 3 Months
+Idaho,2-Day Shipping,Annually
+Idaho,Next Day Air,Monthly
+Vermont,Express,Quarterly
+Arkansas,2-Day Shipping,Annually
+Wyoming,Express,Quarterly
+New Mexico,Next Day Air,Monthly
+West Virginia,Free Shipping,Every 3 Months
+New York,Store Pickup,Every 3 Months
+Illinois,Free Shipping,Quarterly
+Utah,Next Day Air,Quarterly
+Colorado,2-Day Shipping,Quarterly
+Virginia,2-Day Shipping,Fortnightly
+Georgia,Free Shipping,Annually
+Alabama,Express,Every 3 Months
+Montana,Store Pickup,Every 3 Months
+Pennsylvania,Express,Fortnightly
+Missouri,2-Day Shipping,Weekly
+Maine,Express,Fortnightly
+Pennsylvania,Standard,Bi-Weekly
+Oregon,2-Day Shipping,Quarterly
+Utah,2-Day Shipping,Quarterly
+Oklahoma,Store Pickup,Monthly
+Montana,2-Day Shipping,Quarterly
+Nebraska,Store Pickup,Bi-Weekly
+Alabama,Store Pickup,Annually
+Ohio,Store Pickup,Fortnightly
+Arkansas,Express,Fortnightly
+Mississippi,Standard,Every 3 Months
+California,Next Day Air,Every 3 Months
+Alaska,2-Day Shipping,Every 3 Months
+Indiana,Store Pickup,Weekly
+Wisconsin,Express,Every 3 Months
+New Jersey,Next Day Air,Monthly
+Rhode Island,Express,Monthly
+Wyoming,Next Day Air,Monthly
+Oregon,Standard,Every 3 Months
+Washington,Free Shipping,Bi-Weekly
+Washington,Standard,Weekly
+New Hampshire,Express,Quarterly
+Maryland,Standard,Quarterly
+Wisconsin,2-Day Shipping,Weekly
+Massachusetts,Next Day Air,Bi-Weekly
+Nebraska,Store Pickup,Every 3 Months
+Nebraska,Standard,Fortnightly
+Idaho,Free Shipping,Every 3 Months
+Arizona,Store Pickup,Annually
+Hawaii,Standard,Weekly
+Missouri,Next Day Air,Quarterly
+Louisiana,Express,Bi-Weekly
+Arkansas,Free Shipping,Quarterly
+North Carolina,Free Shipping,Quarterly
+North Dakota,Standard,Quarterly
+Montana,Next Day Air,Fortnightly
+Rhode Island,Next Day Air,Weekly
+Idaho,Standard,Bi-Weekly
+Michigan,2-Day Shipping,Every 3 Months
+Illinois,Standard,Fortnightly
+Georgia,Free Shipping,Every 3 Months
+Alabama,Next Day Air,Monthly
+Alaska,Standard,Every 3 Months
+Massachusetts,Store Pickup,Fortnightly
+Michigan,2-Day Shipping,Quarterly
+Alaska,Next Day Air,Monthly
+North Dakota,Express,Monthly
+South Carolina,2-Day Shipping,Quarterly
+Pennsylvania,2-Day Shipping,Annually
+Colorado,Store Pickup,Every 3 Months
+New Hampshire,Free Shipping,Annually
+Maryland,Free Shipping,Annually
+Georgia,Express,Weekly
+Wisconsin,Standard,Bi-Weekly
+Texas,Free Shipping,Monthly
+Utah,2-Day Shipping,Weekly
+Indiana,2-Day Shipping,Weekly
+Nevada,Express,Bi-Weekly
+New Hampshire,Standard,Quarterly
+New York,Next Day Air,Fortnightly
+Texas,Next Day Air,Weekly
+Iowa,2-Day Shipping,Quarterly
+Washington,2-Day Shipping,Weekly
+Tennessee,Free Shipping,Monthly
+Georgia,2-Day Shipping,Annually
+Massachusetts,Free Shipping,Bi-Weekly
+Oregon,2-Day Shipping,Fortnightly
+Oklahoma,Next Day Air,Monthly
+Wisconsin,2-Day Shipping,Fortnightly
+Oregon,Store Pickup,Bi-Weekly
+Georgia,Free Shipping,Bi-Weekly
+New Mexico,Next Day Air,Quarterly
+Mississippi,Next Day Air,Bi-Weekly
+Wisconsin,Next Day Air,Every 3 Months
+New Hampshire,2-Day Shipping,Quarterly
+Wyoming,Free Shipping,Fortnightly
+West Virginia,2-Day Shipping,Monthly
+Michigan,Store Pickup,Quarterly
+Alaska,Next Day Air,Annually
+Illinois,Standard,Bi-Weekly
+Hawaii,2-Day Shipping,Every 3 Months
+Colorado,Next Day Air,Monthly
+Illinois,Store Pickup,Bi-Weekly
+Hawaii,Next Day Air,Weekly
+Wisconsin,Standard,Annually
+Arkansas,Standard,Bi-Weekly
+Delaware,Store Pickup,Annually
+Oregon,Express,Annually
+South Carolina,Standard,Quarterly
+Maryland,Store Pickup,Weekly
+Kansas,2-Day Shipping,Every 3 Months
+Arkansas,Free Shipping,Quarterly
+Minnesota,2-Day Shipping,Monthly
+New Mexico,Express,Monthly
+Delaware,Free Shipping,Quarterly
+Utah,Standard,Bi-Weekly
+Ohio,Free Shipping,Quarterly
+Alabama,Standard,Quarterly
+South Dakota,Next Day Air,Quarterly
+New Mexico,Express,Every 3 Months
+Oregon,Store Pickup,Fortnightly
+Oregon,Free Shipping,Weekly
+Mississippi,Standard,Quarterly
+Alabama,Next Day Air,Bi-Weekly
+Kansas,Next Day Air,Weekly
+California,Next Day Air,Every 3 Months
+Idaho,Free Shipping,Annually
+Wyoming,Free Shipping,Bi-Weekly
+Minnesota,Standard,Monthly
+Washington,Store Pickup,Monthly
+Hawaii,Standard,Weekly
+Missouri,Next Day Air,Every 3 Months
+Colorado,Next Day Air,Fortnightly
+Washington,2-Day Shipping,Monthly
+North Dakota,2-Day Shipping,Weekly
+Minnesota,Free Shipping,Bi-Weekly
+California,Next Day Air,Fortnightly
+Michigan,2-Day Shipping,Monthly
+Delaware,Standard,Fortnightly
+California,2-Day Shipping,Quarterly
+Oklahoma,Free Shipping,Monthly
+North Dakota,Standard,Annually
+Ohio,Free Shipping,Quarterly
+Hawaii,Next Day Air,Monthly
+Maryland,Next Day Air,Annually
+Hawaii,Store Pickup,Quarterly
+Alabama,Next Day Air,Fortnightly
+Oklahoma,Express,Weekly
+Alabama,Free Shipping,Fortnightly
+Vermont,Next Day Air,Monthly
+Ohio,Store Pickup,Weekly
+Wisconsin,Free Shipping,Annually
+South Dakota,Next Day Air,Annually
+Iowa,Free Shipping,Every 3 Months
+Maryland,2-Day Shipping,Monthly
+Colorado,Store Pickup,Fortnightly
+Wisconsin,Standard,Fortnightly
+Mississippi,Store Pickup,Monthly
+Mississippi,Store Pickup,Quarterly
+California,Express,Bi-Weekly
+Delaware,2-Day Shipping,Bi-Weekly
+Montana,Next Day Air,Weekly
+Indiana,Store Pickup,Monthly
+West Virginia,Free Shipping,Fortnightly
+Iowa,Next Day Air,Bi-Weekly
+Maine,2-Day Shipping,Every 3 Months
+Connecticut,Next Day Air,Bi-Weekly
+Kansas,Standard,Fortnightly
+Vermont,Free Shipping,Quarterly
+Nebraska,Next Day Air,Bi-Weekly
+Nevada,Standard,Monthly
+Tennessee,2-Day Shipping,Annually
+Arkansas,Next Day Air,Monthly
+Wisconsin,Standard,Monthly
+Illinois,Next Day Air,Fortnightly
+Kansas,Free Shipping,Bi-Weekly
+New York,Standard,Bi-Weekly
+Colorado,Standard,Quarterly
+Wisconsin,Standard,Fortnightly
+Michigan,Standard,Quarterly
+Hawaii,Store Pickup,Bi-Weekly
+Virginia,2-Day Shipping,Every 3 Months
+Ohio,2-Day Shipping,Fortnightly
+Missouri,Store Pickup,Every 3 Months
+Indiana,Next Day Air,Annually
+Florida,Free Shipping,Every 3 Months
+Minnesota,Next Day Air,Bi-Weekly
+Nevada,Next Day Air,Bi-Weekly
+Maine,Next Day Air,Annually
+Massachusetts,Next Day Air,Monthly
+North Dakota,Next Day Air,Quarterly
+New Jersey,Store Pickup,Every 3 Months
+Indiana,2-Day Shipping,Fortnightly
+Oregon,2-Day Shipping,Every 3 Months
+North Dakota,2-Day Shipping,Bi-Weekly
+South Carolina,Store Pickup,Every 3 Months
+North Carolina,Standard,Annually
+North Dakota,Free Shipping,Fortnightly
+Massachusetts,Next Day Air,Fortnightly
+Tennessee,Free Shipping,Weekly
+Missouri,Free Shipping,Annually
+Tennessee,2-Day Shipping,Weekly
+Colorado,Free Shipping,Every 3 Months
+Mississippi,Store Pickup,Fortnightly
+Ohio,2-Day Shipping,Monthly
+North Carolina,Next Day Air,Monthly
+Ohio,Standard,Every 3 Months
+Nebraska,Standard,Every 3 Months
+Hawaii,Store Pickup,Quarterly
+Oklahoma,Express,Monthly
+Wisconsin,Free Shipping,Quarterly
+Arkansas,Next Day Air,Fortnightly
+Texas,Standard,Monthly
+New Mexico,Next Day Air,Fortnightly
+Colorado,2-Day Shipping,Bi-Weekly
+Indiana,Store Pickup,Quarterly
+Arizona,Next Day Air,Monthly
+Indiana,2-Day Shipping,Every 3 Months
+Indiana,Store Pickup,Bi-Weekly
+Alaska,Store Pickup,Weekly
+Utah,Next Day Air,Annually
+Louisiana,Standard,Monthly
+Iowa,2-Day Shipping,Quarterly
+New Mexico,Free Shipping,Fortnightly
+Maine,Standard,Bi-Weekly
+Minnesota,Next Day Air,Weekly
+New Mexico,Next Day Air,Monthly
+Arkansas,Store Pickup,Annually
+Oklahoma,2-Day Shipping,Every 3 Months
+Utah,Standard,Fortnightly
+Wisconsin,Store Pickup,Quarterly
+Utah,Free Shipping,Weekly
+Utah,Free Shipping,Weekly
+South Carolina,Free Shipping,Quarterly
+Hawaii,Next Day Air,Bi-Weekly
+Alaska,Free Shipping,Fortnightly
+Colorado,Next Day Air,Annually
+West Virginia,Next Day Air,Weekly
+Oregon,Next Day Air,Weekly
+Ohio,2-Day Shipping,Fortnightly
+Massachusetts,Next Day Air,Bi-Weekly
+Louisiana,Store Pickup,Annually
+Virginia,2-Day Shipping,Bi-Weekly
+New York,2-Day Shipping,Bi-Weekly
+Arkansas,Next Day Air,Quarterly
+New Mexico,Standard,Weekly
+Minnesota,Standard,Bi-Weekly
+Illinois,Store Pickup,Annually
+Georgia,Free Shipping,Annually
+Mississippi,Next Day Air,Fortnightly
+North Carolina,Store Pickup,Monthly
+Nevada,Free Shipping,Annually
+Connecticut,Next Day Air,Annually
+Utah,Standard,Bi-Weekly
+Tennessee,Standard,Fortnightly
+Mississippi,Express,Fortnightly
+Nebraska,2-Day Shipping,Fortnightly
+West Virginia,Free Shipping,Bi-Weekly
+South Carolina,Next Day Air,Every 3 Months
+Iowa,Standard,Quarterly
+North Dakota,Free Shipping,Annually
+West Virginia,Express,Monthly
+Mississippi,Next Day Air,Every 3 Months
+Alabama,Express,Weekly
+California,Next Day Air,Annually
+Idaho,Store Pickup,Every 3 Months
+South Dakota,2-Day Shipping,Bi-Weekly
+North Dakota,Standard,Fortnightly
+Nevada,2-Day Shipping,Bi-Weekly
+Florida,Express,Quarterly
+Indiana,Standard,Annually
+Arkansas,Store Pickup,Quarterly
+North Carolina,Express,Monthly
+Illinois,2-Day Shipping,Fortnightly
+Missouri,Free Shipping,Quarterly
+South Dakota,Standard,Monthly
+Idaho,2-Day Shipping,Bi-Weekly
+Connecticut,Standard,Every 3 Months
+Hawaii,Express,Bi-Weekly
+Maryland,2-Day Shipping,Every 3 Months
+Maryland,Free Shipping,Quarterly
+Massachusetts,Express,Bi-Weekly
+Delaware,Free Shipping,Monthly
+Massachusetts,Standard,Fortnightly
+New York,Standard,Annually
+Delaware,Free Shipping,Weekly
+Massachusetts,Next Day Air,Quarterly
+Indiana,Express,Weekly
+Virginia,Express,Monthly
+Wyoming,Express,Every 3 Months
+Illinois,Store Pickup,Fortnightly
+Alabama,Free Shipping,Weekly
+Idaho,Next Day Air,Monthly
+Rhode Island,Free Shipping,Every 3 Months
+New York,Express,Annually
+Missouri,Next Day Air,Quarterly
+Texas,Express,Annually
+Tennessee,2-Day Shipping,Quarterly
+Ohio,Store Pickup,Bi-Weekly
+Tennessee,2-Day Shipping,Weekly
+Minnesota,Express,Weekly
+Wisconsin,Next Day Air,Every 3 Months
+Delaware,Next Day Air,Monthly
+Kansas,Express,Every 3 Months
+Missouri,Standard,Weekly
+Michigan,Standard,Weekly
+West Virginia,Store Pickup,Weekly
+Alabama,Store Pickup,Fortnightly
+New Hampshire,Express,Quarterly
+Montana,2-Day Shipping,Annually
+Wyoming,2-Day Shipping,Every 3 Months
+Missouri,Express,Every 3 Months
+Ohio,2-Day Shipping,Annually
+South Dakota,Store Pickup,Quarterly
+Colorado,Next Day Air,Fortnightly
+Massachusetts,2-Day Shipping,Fortnightly
+Delaware,Next Day Air,Monthly
+New Hampshire,Free Shipping,Weekly
+Michigan,Standard,Annually
+Pennsylvania,Free Shipping,Bi-Weekly
+Louisiana,Next Day Air,Weekly
+Minnesota,Standard,Weekly
+Hawaii,2-Day Shipping,Weekly
+Idaho,Express,Fortnightly
+Vermont,Store Pickup,Annually
+Delaware,Store Pickup,Quarterly
+New Mexico,2-Day Shipping,Quarterly
+Alaska,2-Day Shipping,Bi-Weekly
+Minnesota,2-Day Shipping,Fortnightly
+Nebraska,2-Day Shipping,Every 3 Months
+Alaska,Free Shipping,Monthly
+Michigan,Express,Weekly
+Indiana,Store Pickup,Annually
+Hawaii,2-Day Shipping,Annually
+West Virginia,Free Shipping,Annually
+New York,Express,Weekly
+Iowa,2-Day Shipping,Bi-Weekly
+Arizona,Free Shipping,Every 3 Months
+Minnesota,Free Shipping,Fortnightly
+Texas,Store Pickup,Bi-Weekly
+Virginia,Free Shipping,Weekly
+North Dakota,Next Day Air,Weekly
+Iowa,Express,Quarterly
+Utah,Next Day Air,Fortnightly
+Ohio,Free Shipping,Monthly
+Louisiana,Standard,Quarterly
+Iowa,Next Day Air,Monthly
+Maryland,2-Day Shipping,Monthly
+Montana,2-Day Shipping,Quarterly
+Illinois,Store Pickup,Bi-Weekly
+Arizona,2-Day Shipping,Quarterly
+North Carolina,Store Pickup,Bi-Weekly
+Montana,Store Pickup,Annually
+Iowa,Express,Every 3 Months
+Iowa,Store Pickup,Every 3 Months
+Ohio,Express,Fortnightly
+Wisconsin,2-Day Shipping,Fortnightly
+South Carolina,Store Pickup,Weekly
+Oregon,2-Day Shipping,Weekly
+North Dakota,Express,Weekly
+California,Express,Weekly
+Mississippi,Express,Weekly
+New Jersey,Express,Fortnightly
+Rhode Island,Store Pickup,Bi-Weekly
+New Hampshire,Free Shipping,Fortnightly
+Louisiana,Next Day Air,Weekly
+Arizona,Store Pickup,Weekly
+Rhode Island,Standard,Annually
+Vermont,Standard,Fortnightly
+Tennessee,Next Day Air,Monthly
+Alaska,Free Shipping,Fortnightly
+Maryland,Standard,Bi-Weekly
+Wisconsin,Standard,Annually
+Nevada,Express,Bi-Weekly
+Illinois,Free Shipping,Weekly
+Montana,Free Shipping,Quarterly
+New Mexico,2-Day Shipping,Every 3 Months
+Virginia,Express,Weekly
+Delaware,Free Shipping,Weekly
+North Carolina,Express,Every 3 Months
+Nevada,Next Day Air,Quarterly
+Washington,Express,Monthly
+Maine,Express,Quarterly
+Connecticut,Standard,Annually
+Louisiana,Free Shipping,Bi-Weekly
+Illinois,Express,Monthly
+South Dakota,Next Day Air,Weekly
+Indiana,Express,Annually
+Vermont,2-Day Shipping,Weekly
+New Hampshire,Express,Every 3 Months
+Oregon,2-Day Shipping,Quarterly
+Kansas,Express,Annually
+Maine,Free Shipping,Every 3 Months
+Louisiana,Free Shipping,Monthly
+Louisiana,2-Day Shipping,Fortnightly
+Indiana,2-Day Shipping,Fortnightly
+Kentucky,2-Day Shipping,Quarterly
+South Carolina,2-Day Shipping,Monthly
+Montana,Free Shipping,Monthly
+Vermont,Next Day Air,Quarterly
+Mississippi,Store Pickup,Annually
+Wyoming,Store Pickup,Every 3 Months
+Vermont,Standard,Every 3 Months
+Alabama,Express,Annually
+Kentucky,Next Day Air,Monthly
+South Dakota,2-Day Shipping,Annually
+Delaware,2-Day Shipping,Quarterly
+Wisconsin,Standard,Quarterly
+Arizona,Free Shipping,Weekly
+Maine,Express,Every 3 Months
+New Mexico,Store Pickup,Monthly
+Wyoming,Store Pickup,Weekly
+Delaware,Free Shipping,Fortnightly
+Pennsylvania,Store Pickup,Weekly
+North Dakota,Express,Fortnightly
+Kentucky,Express,Annually
+Rhode Island,Standard,Annually
+Arizona,Free Shipping,Bi-Weekly
+Colorado,Next Day Air,Monthly
+Maine,2-Day Shipping,Annually
+New Jersey,Store Pickup,Fortnightly
+Kansas,Next Day Air,Monthly
+South Dakota,Standard,Monthly
+New Hampshire,Express,Fortnightly
+Connecticut,2-Day Shipping,Monthly
+Wyoming,2-Day Shipping,Quarterly
+Missouri,Store Pickup,Monthly
+Alaska,Standard,Fortnightly
+Delaware,2-Day Shipping,Quarterly
+Indiana,Next Day Air,Fortnightly
+West Virginia,2-Day Shipping,Every 3 Months
+Wyoming,Store Pickup,Fortnightly
+Illinois,Standard,Every 3 Months
+Alaska,Standard,Monthly
+Wisconsin,Express,Weekly
+Indiana,Free Shipping,Weekly
+Tennessee,Next Day Air,Quarterly
+Illinois,Standard,Quarterly
+Pennsylvania,Express,Annually
+Oklahoma,Store Pickup,Monthly
+Tennessee,Express,Bi-Weekly
+New Jersey,2-Day Shipping,Monthly
+New Jersey,Standard,Bi-Weekly
+Tennessee,Store Pickup,Quarterly
+Georgia,Store Pickup,Fortnightly
+Arizona,Next Day Air,Bi-Weekly
+Nevada,Standard,Monthly
+Arkansas,Next Day Air,Bi-Weekly
+North Dakota,Express,Monthly
+South Dakota,Free Shipping,Weekly
+North Carolina,Next Day Air,Weekly
+Hawaii,Store Pickup,Weekly
+New Hampshire,Next Day Air,Quarterly
+California,2-Day Shipping,Weekly
+Delaware,Express,Fortnightly
+Arizona,Free Shipping,Bi-Weekly
+Washington,Express,Monthly
+Nevada,Standard,Monthly
+Alaska,Free Shipping,Fortnightly
+Texas,Next Day Air,Monthly
+New York,Store Pickup,Weekly
+Iowa,Free Shipping,Quarterly
+Arizona,Store Pickup,Quarterly
+New Mexico,Store Pickup,Monthly
+North Carolina,Standard,Weekly
+Nevada,Free Shipping,Monthly
+Idaho,2-Day Shipping,Fortnightly
+Vermont,2-Day Shipping,Fortnightly
+New Mexico,Store Pickup,Every 3 Months
+Georgia,Next Day Air,Bi-Weekly
+Kentucky,Store Pickup,Monthly
+New York,Express,Quarterly
+Arizona,Express,Bi-Weekly
+Colorado,2-Day Shipping,Bi-Weekly
+Kentucky,Express,Annually
+Alaska,Standard,Fortnightly
+Alabama,2-Day Shipping,Weekly
+Connecticut,Next Day Air,Bi-Weekly
+Hawaii,Free Shipping,Bi-Weekly
+Idaho,Standard,Monthly
+Virginia,Express,Bi-Weekly
+Connecticut,Standard,Every 3 Months
+Michigan,Store Pickup,Annually
+Kentucky,Standard,Monthly
+Nebraska,Standard,Annually
+Michigan,Free Shipping,Quarterly
+Utah,Express,Fortnightly
+New Mexico,Express,Annually
+Florida,Standard,Every 3 Months
+Mississippi,Standard,Weekly
+Hawaii,Standard,Quarterly
+North Carolina,Store Pickup,Weekly
+Illinois,Store Pickup,Every 3 Months
+Maryland,Free Shipping,Every 3 Months
+Montana,Next Day Air,Annually
+Michigan,Free Shipping,Annually
+North Carolina,Free Shipping,Fortnightly
+Minnesota,2-Day Shipping,Every 3 Months
+Delaware,2-Day Shipping,Monthly
+Kentucky,Standard,Bi-Weekly
+Ohio,Store Pickup,Every 3 Months
+Alaska,2-Day Shipping,Fortnightly
+Vermont,Standard,Quarterly
+Alabama,Express,Monthly
+Wisconsin,Next Day Air,Annually
+Arkansas,Free Shipping,Every 3 Months
+Georgia,2-Day Shipping,Every 3 Months
+Louisiana,Standard,Quarterly
+New York,Store Pickup,Monthly
+Connecticut,Next Day Air,Bi-Weekly
+Nebraska,Store Pickup,Quarterly
+Arkansas,Free Shipping,Every 3 Months
+Connecticut,Next Day Air,Bi-Weekly
+Maryland,2-Day Shipping,Bi-Weekly
+Colorado,Standard,Fortnightly
+Colorado,Free Shipping,Quarterly
+Maine,Express,Monthly
+Oklahoma,Express,Fortnightly
+South Carolina,Store Pickup,Bi-Weekly
+Nevada,Store Pickup,Quarterly
+Colorado,Store Pickup,Every 3 Months
+Massachusetts,2-Day Shipping,Annually
+Nevada,Free Shipping,Quarterly
+Iowa,Standard,Fortnightly
+Michigan,Standard,Weekly
+West Virginia,Express,Monthly
+Indiana,Express,Quarterly
+Indiana,Express,Fortnightly
+Georgia,Standard,Annually
+Minnesota,Standard,Weekly
+Louisiana,Next Day Air,Fortnightly
+Maryland,Next Day Air,Bi-Weekly
+Pennsylvania,Next Day Air,Monthly
+Louisiana,Express,Every 3 Months
+Maryland,Standard,Every 3 Months
+Tennessee,2-Day Shipping,Fortnightly
+Illinois,Express,Quarterly
+Wyoming,Next Day Air,Fortnightly
+Florida,Free Shipping,Annually
+Massachusetts,Store Pickup,Quarterly
+Tennessee,Store Pickup,Fortnightly
+Iowa,Store Pickup,Fortnightly
+Michigan,Express,Quarterly
+Kansas,2-Day Shipping,Monthly
+Georgia,Next Day Air,Quarterly
+West Virginia,2-Day Shipping,Fortnightly
+Tennessee,2-Day Shipping,Fortnightly
+Arkansas,2-Day Shipping,Quarterly
+Vermont,Express,Quarterly
+Virginia,Free Shipping,Weekly
+Maryland,Express,Bi-Weekly
+Connecticut,2-Day Shipping,Annually
+Missouri,Next Day Air,Every 3 Months
+New Jersey,2-Day Shipping,Monthly
+Arkansas,Express,Weekly
+Nevada,Next Day Air,Weekly
+Missouri,Standard,Quarterly
+South Dakota,Next Day Air,Every 3 Months
+Connecticut,Express,Bi-Weekly
+Vermont,2-Day Shipping,Quarterly
+Tennessee,2-Day Shipping,Monthly
+California,2-Day Shipping,Bi-Weekly
+Wyoming,Free Shipping,Fortnightly
+New York,Express,Every 3 Months
+Maine,Express,Quarterly
+Georgia,2-Day Shipping,Bi-Weekly
+Tennessee,Store Pickup,Fortnightly
+New Mexico,Express,Annually
+Virginia,2-Day Shipping,Quarterly
+Florida,Free Shipping,Every 3 Months
+Alabama,Next Day Air,Bi-Weekly
+Texas,2-Day Shipping,Bi-Weekly
+West Virginia,Express,Monthly
+Nevada,Store Pickup,Fortnightly
+Virginia,Standard,Quarterly
+Wisconsin,Standard,Bi-Weekly
+Virginia,Next Day Air,Fortnightly
+Maine,Standard,Fortnightly
+Massachusetts,Next Day Air,Every 3 Months
+Arkansas,Store Pickup,Weekly
+Idaho,Store Pickup,Fortnightly
+Pennsylvania,Next Day Air,Quarterly
+Maine,Standard,Quarterly
+Alabama,Store Pickup,Bi-Weekly
+Idaho,Store Pickup,Bi-Weekly
+Arkansas,Express,Weekly
+Delaware,Express,Fortnightly
+Maine,Express,Every 3 Months
+Nebraska,Standard,Every 3 Months
+Ohio,2-Day Shipping,Bi-Weekly
+Montana,Next Day Air,Quarterly
+New Mexico,Standard,Monthly
+North Carolina,Standard,Monthly
+South Carolina,Next Day Air,Annually
+Illinois,Express,Annually
+Alabama,Store Pickup,Monthly
+Oklahoma,Express,Weekly
+Minnesota,Next Day Air,Weekly
+Illinois,Express,Bi-Weekly
+Arkansas,Next Day Air,Fortnightly
+Minnesota,Next Day Air,Bi-Weekly
+South Carolina,Free Shipping,Quarterly
+New York,Next Day Air,Bi-Weekly
+Alabama,2-Day Shipping,Monthly
+New York,Standard,Weekly
+Missouri,Free Shipping,Fortnightly
+Georgia,Express,Quarterly
+Oklahoma,Free Shipping,Every 3 Months
+Connecticut,Store Pickup,Annually
+Michigan,Express,Quarterly
+Rhode Island,Standard,Annually
+Mississippi,Store Pickup,Annually
+Massachusetts,Free Shipping,Monthly
+New Hampshire,2-Day Shipping,Annually
+Wyoming,2-Day Shipping,Fortnightly
+New Jersey,Express,Annually
+Texas,2-Day Shipping,Weekly
+Minnesota,2-Day Shipping,Monthly
+South Dakota,Standard,Every 3 Months
+Washington,Store Pickup,Quarterly
+California,Express,Weekly
+Wisconsin,Next Day Air,Quarterly
+Michigan,Store Pickup,Annually
+South Carolina,Standard,Quarterly
+Indiana,Standard,Monthly
+Arkansas,2-Day Shipping,Monthly
+Oregon,Free Shipping,Bi-Weekly
+Illinois,Store Pickup,Fortnightly
+Maryland,2-Day Shipping,Fortnightly
+Vermont,Store Pickup,Monthly
+Texas,Free Shipping,Quarterly
+Nebraska,Express,Monthly
+South Carolina,Store Pickup,Quarterly
+Massachusetts,Next Day Air,Weekly
+Texas,Next Day Air,Every 3 Months
+Florida,Free Shipping,Fortnightly
+South Carolina,Express,Monthly
+Florida,Free Shipping,Bi-Weekly
+Nebraska,Free Shipping,Annually
+Hawaii,Next Day Air,Weekly
+Montana,Next Day Air,Quarterly
+South Dakota,Free Shipping,Bi-Weekly
+Alabama,Standard,Bi-Weekly
+Arkansas,Free Shipping,Every 3 Months
+Mississippi,Store Pickup,Fortnightly
+Vermont,Standard,Quarterly
+New York,Free Shipping,Weekly
+North Dakota,2-Day Shipping,Every 3 Months
+Wisconsin,Standard,Weekly
+California,Standard,Annually
+Maryland,Free Shipping,Every 3 Months
+Massachusetts,Free Shipping,Monthly
+Washington,Next Day Air,Quarterly
+Minnesota,Next Day Air,Weekly
+Washington,Store Pickup,Annually
+South Carolina,Standard,Annually
+New Mexico,Store Pickup,Fortnightly
+North Carolina,Free Shipping,Annually
+Iowa,Next Day Air,Weekly
+Louisiana,2-Day Shipping,Quarterly
+Oklahoma,Express,Annually
+Michigan,Free Shipping,Fortnightly
+Oregon,Next Day Air,Bi-Weekly
+Idaho,Store Pickup,Monthly
+Indiana,Store Pickup,Weekly
+New Mexico,Free Shipping,Weekly
+South Carolina,Free Shipping,Bi-Weekly
+Vermont,Standard,Every 3 Months
+Delaware,Standard,Quarterly
+North Dakota,Express,Quarterly
+California,Free Shipping,Every 3 Months
+Montana,Store Pickup,Every 3 Months
+Missouri,Free Shipping,Annually
+Tennessee,2-Day Shipping,Fortnightly
+Virginia,Store Pickup,Every 3 Months
+Vermont,Standard,Annually
+Rhode Island,Store Pickup,Bi-Weekly
+Kansas,Express,Bi-Weekly
+Colorado,Free Shipping,Annually
+Georgia,2-Day Shipping,Quarterly
+Nebraska,Store Pickup,Bi-Weekly
+Missouri,Next Day Air,Quarterly
+Alaska,2-Day Shipping,Monthly
+Virginia,Express,Weekly
+Nebraska,Express,Bi-Weekly
+Rhode Island,Next Day Air,Quarterly
+New Hampshire,Store Pickup,Quarterly
+Alabama,Express,Monthly
+North Carolina,2-Day Shipping,Weekly
+New Mexico,2-Day Shipping,Weekly
+Minnesota,Store Pickup,Every 3 Months
+Arizona,Free Shipping,Annually
+Montana,Express,Fortnightly
+Vermont,2-Day Shipping,Weekly
+Maine,Standard,Annually
+Virginia,Standard,Fortnightly
+California,Next Day Air,Every 3 Months
+New York,Standard,Fortnightly
+Indiana,2-Day Shipping,Every 3 Months
+Mississippi,Next Day Air,Quarterly
+New York,Free Shipping,Weekly
+New Mexico,Standard,Fortnightly
+Kentucky,2-Day Shipping,Annually
+North Dakota,Next Day Air,Quarterly
+Arkansas,Next Day Air,Bi-Weekly
+Maryland,Free Shipping,Quarterly
+Connecticut,Standard,Annually
+Utah,Standard,Every 3 Months
+Missouri,Standard,Fortnightly
+Nebraska,2-Day Shipping,Bi-Weekly
+Hawaii,Standard,Weekly
+Illinois,2-Day Shipping,Weekly
+Vermont,2-Day Shipping,Monthly
+New Jersey,Next Day Air,Bi-Weekly
+Kentucky,Free Shipping,Annually
+Wyoming,Store Pickup,Every 3 Months
+Hawaii,Store Pickup,Monthly
+Missouri,Next Day Air,Bi-Weekly
+Mississippi,Next Day Air,Fortnightly
+Massachusetts,Standard,Fortnightly
+Louisiana,Free Shipping,Annually
+West Virginia,Express,Annually
+Washington,Express,Fortnightly
+Oregon,Free Shipping,Weekly
+New York,Express,Monthly
+Iowa,Next Day Air,Bi-Weekly
+Idaho,Express,Every 3 Months
+New Jersey,Express,Bi-Weekly
+Ohio,Standard,Fortnightly
+Connecticut,Next Day Air,Quarterly
+Florida,Next Day Air,Bi-Weekly
+South Carolina,Next Day Air,Every 3 Months
+Missouri,Store Pickup,Fortnightly
+Rhode Island,Store Pickup,Fortnightly
+Delaware,2-Day Shipping,Quarterly
+Colorado,Store Pickup,Annually
+Nebraska,Free Shipping,Fortnightly
+Vermont,2-Day Shipping,Quarterly
+Montana,Express,Bi-Weekly
+Florida,Standard,Annually
+Delaware,Next Day Air,Monthly
+Connecticut,Store Pickup,Quarterly
+Hawaii,Free Shipping,Bi-Weekly
+New Mexico,Store Pickup,Bi-Weekly
+Kansas,Store Pickup,Monthly
+Nevada,Free Shipping,Every 3 Months
+North Carolina,Express,Every 3 Months
+New Mexico,Next Day Air,Every 3 Months
+Idaho,Free Shipping,Annually
+California,Next Day Air,Weekly
+Wisconsin,Express,Bi-Weekly
+Alaska,Express,Annually
+Pennsylvania,Next Day Air,Bi-Weekly
+Virginia,Next Day Air,Monthly
+California,Express,Monthly
+Kentucky,Standard,Quarterly
+New York,Next Day Air,Monthly
+Vermont,Next Day Air,Weekly
+Pennsylvania,2-Day Shipping,Monthly
+New York,Free Shipping,Monthly
+North Carolina,Store Pickup,Monthly
+Wyoming,Next Day Air,Every 3 Months
+Ohio,2-Day Shipping,Annually
+Alabama,Next Day Air,Weekly
+Rhode Island,Free Shipping,Quarterly
+Oregon,2-Day Shipping,Monthly
+North Dakota,Express,Weekly
+Illinois,Store Pickup,Fortnightly
+New Mexico,Next Day Air,Annually
+Colorado,2-Day Shipping,Monthly
+Utah,2-Day Shipping,Quarterly
+Virginia,Store Pickup,Fortnightly
+Maine,Free Shipping,Every 3 Months
+Nebraska,Next Day Air,Quarterly
+Hawaii,Express,Quarterly
+Idaho,Standard,Weekly
+West Virginia,Express,Fortnightly
+Vermont,Store Pickup,Bi-Weekly
+Indiana,Store Pickup,Fortnightly
+Idaho,Store Pickup,Quarterly
+Minnesota,Store Pickup,Fortnightly
+Wyoming,Store Pickup,Annually
+Kansas,Free Shipping,Annually
+Georgia,Store Pickup,Weekly
+Kansas,Next Day Air,Quarterly
+Nebraska,Standard,Quarterly
+Washington,Free Shipping,Annually
+Missouri,Store Pickup,Annually
+Washington,Next Day Air,Fortnightly
+Kansas,Free Shipping,Weekly
+Minnesota,Express,Monthly
+Colorado,Express,Fortnightly
+Utah,Store Pickup,Weekly
+North Carolina,Store Pickup,Fortnightly
+Florida,Express,Monthly
+New Hampshire,Express,Weekly
+Illinois,2-Day Shipping,Annually
+Louisiana,Standard,Fortnightly
+Alabama,Next Day Air,Every 3 Months
+Florida,Standard,Weekly
+Alabama,2-Day Shipping,Every 3 Months
+California,Next Day Air,Every 3 Months
+Maryland,Free Shipping,Bi-Weekly
+Nevada,Next Day Air,Bi-Weekly
+Massachusetts,2-Day Shipping,Annually
+South Carolina,2-Day Shipping,Annually
+Delaware,Free Shipping,Fortnightly
+Hawaii,Store Pickup,Every 3 Months
+Florida,Next Day Air,Annually
+Rhode Island,Free Shipping,Fortnightly
+Wyoming,Next Day Air,Weekly
+Colorado,Store Pickup,Weekly
+Virginia,Free Shipping,Monthly
+Nebraska,Express,Annually
+Oklahoma,Store Pickup,Monthly
+North Dakota,Store Pickup,Every 3 Months
+Michigan,Store Pickup,Quarterly
+California,Standard,Quarterly
+Tennessee,Standard,Annually
+Ohio,Store Pickup,Every 3 Months
+Florida,Free Shipping,Annually
+Missouri,Express,Quarterly
+South Carolina,Standard,Fortnightly
+Arizona,2-Day Shipping,Monthly
+Indiana,Store Pickup,Quarterly
+North Dakota,2-Day Shipping,Monthly
+Montana,Store Pickup,Quarterly
+Missouri,Store Pickup,Weekly
+Kentucky,Express,Weekly
+Georgia,2-Day Shipping,Monthly
+Kentucky,Store Pickup,Annually
+Georgia,Express,Weekly
+Alaska,Free Shipping,Quarterly
+Maine,Standard,Monthly
+New Mexico,Express,Bi-Weekly
+New York,Next Day Air,Fortnightly
+Oklahoma,Standard,Weekly
+Wyoming,2-Day Shipping,Weekly
+Alabama,Next Day Air,Quarterly
+Maryland,Store Pickup,Every 3 Months
+West Virginia,Free Shipping,Quarterly
+Kentucky,Standard,Fortnightly
+Kansas,Store Pickup,Annually
+Idaho,2-Day Shipping,Annually
+Ohio,Free Shipping,Fortnightly
+Iowa,Express,Annually
+Michigan,2-Day Shipping,Every 3 Months
+South Dakota,Store Pickup,Quarterly
+Nebraska,Store Pickup,Annually
+California,Next Day Air,Weekly
+Nevada,Free Shipping,Weekly
+Kansas,Standard,Quarterly
+Ohio,2-Day Shipping,Quarterly
+Vermont,Next Day Air,Monthly
+Georgia,Express,Every 3 Months
+Maryland,Express,Annually
+Connecticut,2-Day Shipping,Quarterly
+Washington,Next Day Air,Every 3 Months
+California,Standard,Quarterly
+Montana,2-Day Shipping,Every 3 Months
+Idaho,Store Pickup,Every 3 Months
+Pennsylvania,2-Day Shipping,Monthly
+Maine,Next Day Air,Annually
+Montana,Store Pickup,Monthly
+New Jersey,2-Day Shipping,Fortnightly
+Louisiana,Free Shipping,Fortnightly
+Maine,Free Shipping,Weekly
+Florida,Standard,Bi-Weekly
+Missouri,Next Day Air,Annually
+North Dakota,2-Day Shipping,Quarterly
+Connecticut,2-Day Shipping,Quarterly
+Virginia,Standard,Monthly
+Montana,2-Day Shipping,Every 3 Months
+Vermont,Free Shipping,Every 3 Months
+Georgia,Next Day Air,Fortnightly
+Virginia,Express,Every 3 Months
+Vermont,2-Day Shipping,Quarterly
+Montana,Standard,Annually
+New Jersey,Next Day Air,Monthly
+Wyoming,Store Pickup,Annually
+Maine,Free Shipping,Monthly
+New Mexico,Free Shipping,Every 3 Months
+Colorado,Next Day Air,Fortnightly
+Connecticut,Store Pickup,Fortnightly
+Maryland,Express,Monthly
+Oregon,Free Shipping,Annually
+New York,2-Day Shipping,Weekly
+Oklahoma,Standard,Annually
+Alabama,2-Day Shipping,Bi-Weekly
+North Dakota,Express,Bi-Weekly
+Nebraska,Free Shipping,Annually
+Arizona,Store Pickup,Every 3 Months
+Illinois,2-Day Shipping,Bi-Weekly
+South Carolina,Store Pickup,Monthly
+Kansas,Next Day Air,Every 3 Months
+Kansas,Standard,Monthly
+Idaho,Store Pickup,Fortnightly
+California,Free Shipping,Weekly
+North Dakota,Store Pickup,Annually
+Georgia,Express,Quarterly
+Illinois,Next Day Air,Quarterly
+Delaware,Standard,Fortnightly
+Connecticut,Express,Every 3 Months
+Tennessee,Standard,Fortnightly
+Maryland,2-Day Shipping,Monthly
+Rhode Island,Express,Bi-Weekly
+New York,Express,Every 3 Months
+New Mexico,Standard,Fortnightly
+California,Express,Every 3 Months
+Maine,Next Day Air,Every 3 Months
+New York,Standard,Every 3 Months
+Hawaii,Free Shipping,Annually
+New Hampshire,Store Pickup,Bi-Weekly
+Nebraska,Store Pickup,Quarterly
+Montana,Standard,Every 3 Months
+Wisconsin,Next Day Air,Monthly
+Tennessee,Next Day Air,Monthly
+Montana,Free Shipping,Quarterly
+Michigan,2-Day Shipping,Bi-Weekly
+Texas,Standard,Quarterly
+Pennsylvania,2-Day Shipping,Every 3 Months
+New York,2-Day Shipping,Every 3 Months
+Alabama,2-Day Shipping,Every 3 Months
+Virginia,Standard,Monthly
+Pennsylvania,Express,Bi-Weekly
+Mississippi,Free Shipping,Quarterly
+Wyoming,Next Day Air,Monthly
+New Mexico,Express,Fortnightly
+North Dakota,Standard,Bi-Weekly
+New Jersey,Standard,Every 3 Months
+Vermont,Standard,Monthly
+Alaska,Store Pickup,Weekly
+Indiana,Next Day Air,Annually
+Alabama,Express,Fortnightly
+Michigan,Express,Every 3 Months
+Washington,Standard,Monthly
+Virginia,Next Day Air,Quarterly
+Tennessee,Express,Weekly
+South Dakota,Next Day Air,Annually
+New Hampshire,Store Pickup,Bi-Weekly
+South Dakota,2-Day Shipping,Monthly
+Pennsylvania,Next Day Air,Fortnightly
+Wisconsin,Free Shipping,Annually
+California,Express,Weekly
+Rhode Island,2-Day Shipping,Annually
+Alabama,2-Day Shipping,Quarterly
+Oklahoma,Express,Weekly
+Illinois,Standard,Monthly
+Tennessee,2-Day Shipping,Monthly
+Alabama,Store Pickup,Annually
+Kansas,Store Pickup,Every 3 Months
+Arizona,Express,Fortnightly
+Michigan,Next Day Air,Quarterly
+Missouri,2-Day Shipping,Annually
+Louisiana,2-Day Shipping,Every 3 Months
+Connecticut,2-Day Shipping,Fortnightly
+Connecticut,2-Day Shipping,Bi-Weekly
+Oregon,2-Day Shipping,Weekly
+West Virginia,Store Pickup,Monthly
+Florida,Free Shipping,Fortnightly
+New Hampshire,Store Pickup,Monthly
+Oregon,Next Day Air,Bi-Weekly
+Oregon,Standard,Bi-Weekly
+Utah,Free Shipping,Weekly
+Missouri,Standard,Weekly
+West Virginia,2-Day Shipping,Bi-Weekly
+California,Standard,Quarterly
+California,Standard,Weekly
+Illinois,Express,Bi-Weekly
+Hawaii,Next Day Air,Every 3 Months
+Washington,Store Pickup,Every 3 Months
+Wisconsin,Free Shipping,Monthly
+Virginia,Free Shipping,Every 3 Months
+Oregon,2-Day Shipping,Bi-Weekly
+Pennsylvania,2-Day Shipping,Weekly
+Virginia,Next Day Air,Bi-Weekly
+Hawaii,Standard,Weekly
+Nebraska,Next Day Air,Every 3 Months
+Alaska,Standard,Fortnightly
+Michigan,Next Day Air,Every 3 Months
+North Carolina,Next Day Air,Every 3 Months
+North Carolina,Free Shipping,Annually
+Minnesota,Standard,Every 3 Months
+Georgia,Store Pickup,Weekly
+West Virginia,Free Shipping,Every 3 Months
+Delaware,Next Day Air,Bi-Weekly
+North Dakota,2-Day Shipping,Quarterly
+Florida,Free Shipping,Every 3 Months
+Oregon,Standard,Quarterly
+Idaho,Next Day Air,Annually
+Virginia,Standard,Fortnightly
+North Dakota,Express,Quarterly
+Alabama,Express,Every 3 Months
+Hawaii,Store Pickup,Monthly
+Oregon,Standard,Bi-Weekly
+Utah,Store Pickup,Monthly
+Hawaii,Free Shipping,Bi-Weekly
+Connecticut,Store Pickup,Quarterly
+Wyoming,Store Pickup,Weekly
+Delaware,Express,Weekly
+Arkansas,Standard,Annually
+Indiana,Standard,Annually
+California,Free Shipping,Monthly
+Wyoming,Free Shipping,Bi-Weekly
+South Dakota,2-Day Shipping,Bi-Weekly
+West Virginia,Express,Bi-Weekly
+Tennessee,Store Pickup,Weekly
+Alaska,2-Day Shipping,Monthly
+South Dakota,Store Pickup,Fortnightly
+Tennessee,Free Shipping,Bi-Weekly
+Alabama,Express,Fortnightly
+North Carolina,Standard,Quarterly
+Oklahoma,Store Pickup,Monthly
+New York,Express,Every 3 Months
+Iowa,Store Pickup,Annually
+Alaska,Express,Annually
+Alaska,Express,Every 3 Months
+Nebraska,2-Day Shipping,Monthly
+Delaware,2-Day Shipping,Quarterly
+Texas,Free Shipping,Weekly
+Missouri,2-Day Shipping,Weekly
+Maine,Store Pickup,Annually
+Pennsylvania,Next Day Air,Weekly
+Missouri,Standard,Bi-Weekly
+Mississippi,Standard,Bi-Weekly
+Hawaii,Express,Bi-Weekly
+Texas,Free Shipping,Weekly
+South Dakota,Express,Annually
+New Jersey,Express,Annually
+Connecticut,2-Day Shipping,Weekly
+Maryland,Standard,Annually
+Arizona,Next Day Air,Fortnightly
+Oklahoma,Store Pickup,Annually
+Utah,Standard,Annually
+Arkansas,Next Day Air,Quarterly
+North Carolina,Store Pickup,Quarterly
+California,Next Day Air,Monthly
+Colorado,Next Day Air,Monthly
+California,2-Day Shipping,Weekly
+Vermont,2-Day Shipping,Every 3 Months
+Kansas,Standard,Every 3 Months
+Ohio,Next Day Air,Fortnightly
+New Jersey,Free Shipping,Weekly
+Arizona,Next Day Air,Every 3 Months
+Arizona,Standard,Monthly
+New Hampshire,2-Day Shipping,Every 3 Months
+Louisiana,2-Day Shipping,Annually
+Texas,Store Pickup,Fortnightly
+Montana,Next Day Air,Bi-Weekly
+New Hampshire,Express,Monthly
+South Dakota,Express,Quarterly
+Montana,Free Shipping,Every 3 Months
+North Carolina,Express,Monthly
+South Dakota,Next Day Air,Bi-Weekly
+Maine,2-Day Shipping,Every 3 Months
+Oklahoma,Store Pickup,Annually
+Nebraska,Free Shipping,Every 3 Months
+Illinois,Store Pickup,Weekly
+Colorado,Standard,Annually
+Massachusetts,Next Day Air,Fortnightly
+Louisiana,Next Day Air,Quarterly
+Massachusetts,Store Pickup,Bi-Weekly
+West Virginia,Free Shipping,Bi-Weekly
+Idaho,Standard,Every 3 Months
+Ohio,Store Pickup,Bi-Weekly
+Rhode Island,Store Pickup,Bi-Weekly
+Illinois,Express,Quarterly
+New York,Free Shipping,Annually
+Louisiana,Store Pickup,Every 3 Months
+California,2-Day Shipping,Bi-Weekly
+Washington,Free Shipping,Quarterly
+South Dakota,Standard,Weekly
+Idaho,Store Pickup,Quarterly
+North Dakota,Free Shipping,Monthly
+Washington,2-Day Shipping,Annually
+Alaska,Free Shipping,Bi-Weekly
+Kansas,2-Day Shipping,Monthly
+Utah,Standard,Quarterly
+Wyoming,Standard,Annually
+Maine,Store Pickup,Annually
+Michigan,Standard,Quarterly
+Illinois,Next Day Air,Every 3 Months
+Minnesota,Standard,Every 3 Months
+Massachusetts,2-Day Shipping,Weekly
+New Jersey,Express,Annually
+Kansas,Express,Quarterly
+Kentucky,Standard,Weekly
+Rhode Island,Express,Bi-Weekly
+Illinois,Express,Every 3 Months
+Alabama,2-Day Shipping,Monthly
+Tennessee,Next Day Air,Monthly
+Massachusetts,Free Shipping,Weekly
+Texas,Free Shipping,Every 3 Months
+Nebraska,Next Day Air,Weekly
+Pennsylvania,Standard,Bi-Weekly
+Virginia,Free Shipping,Weekly
+Vermont,Express,Fortnightly
+Oklahoma,Express,Every 3 Months
+Maine,2-Day Shipping,Fortnightly
+New Jersey,Next Day Air,Bi-Weekly
+Massachusetts,Next Day Air,Bi-Weekly
+New Jersey,Free Shipping,Quarterly
+Washington,Next Day Air,Every 3 Months
+Arkansas,Express,Annually
+West Virginia,Next Day Air,Bi-Weekly
+Delaware,Next Day Air,Quarterly
+Texas,Free Shipping,Annually
+Texas,Express,Quarterly
+Mississippi,2-Day Shipping,Weekly
+Texas,Standard,Monthly
+Virginia,Standard,Every 3 Months
+New Hampshire,Store Pickup,Fortnightly
+Minnesota,Next Day Air,Annually
+Maryland,2-Day Shipping,Annually
+Vermont,Store Pickup,Every 3 Months
+Kansas,Store Pickup,Bi-Weekly
+Idaho,Standard,Weekly
+Montana,Standard,Quarterly
+Oklahoma,Standard,Fortnightly
+California,Express,Fortnightly
+Mississippi,Free Shipping,Every 3 Months
+California,Next Day Air,Bi-Weekly
+New York,Free Shipping,Quarterly
+Arizona,Standard,Fortnightly
+Massachusetts,Standard,Every 3 Months
+Kentucky,2-Day Shipping,Weekly
+Vermont,Store Pickup,Quarterly
+Missouri,Standard,Quarterly
+Michigan,Store Pickup,Fortnightly
+Texas,Express,Fortnightly
+New York,Free Shipping,Bi-Weekly
+New Mexico,Store Pickup,Fortnightly
+Mississippi,Standard,Fortnightly
+Washington,Next Day Air,Quarterly
+New Mexico,Store Pickup,Annually
+Florida,2-Day Shipping,Fortnightly
+Minnesota,Express,Annually
+New Hampshire,Free Shipping,Quarterly
+Minnesota,Next Day Air,Monthly
+Vermont,Free Shipping,Quarterly
+Minnesota,Express,Weekly
+Massachusetts,Store Pickup,Quarterly
+Wyoming,Express,Monthly
+South Dakota,2-Day Shipping,Every 3 Months
+Oklahoma,Next Day Air,Weekly
+Florida,Store Pickup,Bi-Weekly
+Wisconsin,Free Shipping,Weekly
+Maine,Express,Every 3 Months
+Connecticut,Express,Every 3 Months
+Delaware,Free Shipping,Bi-Weekly
+North Dakota,2-Day Shipping,Annually
+California,Free Shipping,Annually
+New Mexico,Express,Quarterly
+Iowa,Store Pickup,Quarterly
+Colorado,Store Pickup,Every 3 Months
+Montana,Free Shipping,Every 3 Months
+Iowa,Free Shipping,Bi-Weekly
+Louisiana,Next Day Air,Monthly
+Alabama,Store Pickup,Bi-Weekly
+Nevada,Express,Annually
+Vermont,Express,Monthly
+New York,Express,Bi-Weekly
+Mississippi,Store Pickup,Monthly
+South Carolina,Free Shipping,Quarterly
+Washington,2-Day Shipping,Annually
+Colorado,Store Pickup,Weekly
+Nevada,2-Day Shipping,Fortnightly
+Nevada,Standard,Bi-Weekly
+Oklahoma,Express,Every 3 Months
+Mississippi,2-Day Shipping,Fortnightly
+Arkansas,Store Pickup,Bi-Weekly
+West Virginia,Express,Quarterly
+Michigan,2-Day Shipping,Fortnightly
+Louisiana,Next Day Air,Quarterly
+South Dakota,Express,Monthly
+North Dakota,Express,Fortnightly
+Arizona,2-Day Shipping,Quarterly
+Georgia,Express,Annually
+Idaho,Standard,Annually
+Louisiana,Express,Monthly
+Connecticut,Free Shipping,Weekly
+Ohio,Standard,Annually
+Maine,Express,Annually
+New Hampshire,2-Day Shipping,Annually
+Massachusetts,Next Day Air,Annually
+South Dakota,Standard,Annually
+Colorado,Standard,Weekly
+Rhode Island,Express,Every 3 Months
+Missouri,Next Day Air,Quarterly
+Wyoming,Next Day Air,Bi-Weekly
+New Hampshire,Free Shipping,Annually
+Maine,Free Shipping,Quarterly
+Connecticut,Express,Weekly
+Alaska,Next Day Air,Annually
+Alaska,Next Day Air,Fortnightly
+North Carolina,Store Pickup,Every 3 Months
+Colorado,2-Day Shipping,Fortnightly
+Utah,Store Pickup,Annually
+Alabama,Store Pickup,Annually
+Hawaii,Store Pickup,Annually
+New Hampshire,Free Shipping,Quarterly
+Indiana,Store Pickup,Bi-Weekly
+Vermont,Next Day Air,Every 3 Months
+Iowa,Store Pickup,Annually
+Maryland,Next Day Air,Monthly
+New Mexico,Standard,Every 3 Months
+Louisiana,Store Pickup,Bi-Weekly
+New Mexico,Next Day Air,Every 3 Months
+South Carolina,2-Day Shipping,Annually
+Illinois,Next Day Air,Bi-Weekly
+Minnesota,Store Pickup,Fortnightly
+Oregon,Standard,Every 3 Months
+Tennessee,Store Pickup,Quarterly
+Maryland,2-Day Shipping,Monthly
+Wisconsin,Express,Every 3 Months
+Idaho,Next Day Air,Annually
+Wyoming,Standard,Fortnightly
+Indiana,Express,Fortnightly
+Texas,Express,Fortnightly
+Ohio,Next Day Air,Monthly
+Kansas,2-Day Shipping,Fortnightly
+South Carolina,Express,Annually
+Michigan,Express,Annually
+Nebraska,2-Day Shipping,Fortnightly
+Wisconsin,Free Shipping,Annually
+Illinois,Store Pickup,Weekly
+Louisiana,Store Pickup,Weekly
+Ohio,Store Pickup,Fortnightly
+Maryland,Free Shipping,Fortnightly
+Texas,Next Day Air,Quarterly
+Illinois,Free Shipping,Weekly
+Pennsylvania,Express,Bi-Weekly
+Alabama,2-Day Shipping,Every 3 Months
+West Virginia,Standard,Annually
+Nevada,2-Day Shipping,Monthly
+Florida,Express,Every 3 Months
+Virginia,Free Shipping,Bi-Weekly
+Kentucky,Free Shipping,Fortnightly
+Connecticut,Next Day Air,Every 3 Months
+Montana,2-Day Shipping,Bi-Weekly
+Montana,Express,Quarterly
+Nebraska,Next Day Air,Annually
+Massachusetts,Standard,Monthly
+North Carolina,2-Day Shipping,Every 3 Months
+Montana,Next Day Air,Fortnightly
+Washington,Free Shipping,Bi-Weekly
+Virginia,Express,Quarterly
+Georgia,2-Day Shipping,Fortnightly
+Delaware,2-Day Shipping,Bi-Weekly
+West Virginia,2-Day Shipping,Every 3 Months
+Wyoming,Standard,Quarterly
+New Mexico,Free Shipping,Weekly
+Nebraska,2-Day Shipping,Monthly
+Washington,Free Shipping,Every 3 Months
+Hawaii,Standard,Quarterly
+Louisiana,Express,Every 3 Months
+Tennessee,Standard,Bi-Weekly
+South Dakota,Free Shipping,Monthly
+Delaware,Standard,Quarterly
+Virginia,Store Pickup,Quarterly
+Utah,2-Day Shipping,Annually
+California,Standard,Weekly
+Idaho,Store Pickup,Fortnightly
+Texas,Next Day Air,Fortnightly
+Tennessee,Free Shipping,Weekly
+Tennessee,Next Day Air,Weekly
+Washington,Store Pickup,Bi-Weekly
+Alabama,Express,Quarterly
+Nebraska,Standard,Weekly
+Alabama,Store Pickup,Weekly
+Illinois,Standard,Bi-Weekly
+Wisconsin,Standard,Fortnightly
+Nebraska,Standard,Monthly
+North Dakota,Standard,Quarterly
+Mississippi,2-Day Shipping,Annually
+Iowa,Store Pickup,Bi-Weekly
+Mississippi,Express,Fortnightly
+Colorado,Store Pickup,Weekly
+Nebraska,Free Shipping,Every 3 Months
+Virginia,Next Day Air,Bi-Weekly
+Louisiana,Free Shipping,Monthly
+Maryland,Store Pickup,Quarterly
+Minnesota,Free Shipping,Fortnightly
+Maine,2-Day Shipping,Fortnightly
+Texas,Store Pickup,Every 3 Months
+Missouri,Next Day Air,Fortnightly
+Mississippi,Free Shipping,Annually
+Michigan,Free Shipping,Bi-Weekly
+Colorado,2-Day Shipping,Fortnightly
+Florida,Express,Weekly
+Montana,Free Shipping,Monthly
+Wisconsin,Store Pickup,Annually
+Wisconsin,2-Day Shipping,Quarterly
+Delaware,Store Pickup,Every 3 Months
+North Carolina,Express,Annually
+New York,2-Day Shipping,Bi-Weekly
+California,Express,Bi-Weekly
+Montana,Store Pickup,Annually
+North Carolina,Free Shipping,Every 3 Months
+Ohio,2-Day Shipping,Every 3 Months
+Alaska,Store Pickup,Every 3 Months
+Pennsylvania,Free Shipping,Fortnightly
+Maine,2-Day Shipping,Monthly
+Texas,Free Shipping,Annually
+New Jersey,2-Day Shipping,Quarterly
+Wyoming,Store Pickup,Monthly
+Michigan,Standard,Bi-Weekly
+Ohio,Standard,Every 3 Months
+West Virginia,Free Shipping,Every 3 Months
+Virginia,Free Shipping,Annually
+Vermont,Standard,Annually
+Alaska,2-Day Shipping,Every 3 Months
+Minnesota,Free Shipping,Monthly
+Colorado,Free Shipping,Bi-Weekly
+Rhode Island,Next Day Air,Quarterly
+New Jersey,Free Shipping,Bi-Weekly
+Nevada,Store Pickup,Annually
+Minnesota,Free Shipping,Monthly
+Delaware,Next Day Air,Monthly
+Illinois,Standard,Bi-Weekly
+Washington,Free Shipping,Every 3 Months
+Alaska,Next Day Air,Bi-Weekly
+Michigan,Next Day Air,Every 3 Months
+Georgia,Store Pickup,Every 3 Months
+West Virginia,2-Day Shipping,Quarterly
+Arizona,Next Day Air,Weekly
+Colorado,2-Day Shipping,Quarterly
+Tennessee,Standard,Monthly
+Iowa,Free Shipping,Monthly
+Kansas,2-Day Shipping,Bi-Weekly
+Oklahoma,Standard,Weekly
+Nebraska,Express,Quarterly
+Maryland,2-Day Shipping,Fortnightly
+Pennsylvania,Store Pickup,Every 3 Months
+Arizona,Express,Quarterly
+Oklahoma,Standard,Quarterly
+Montana,Free Shipping,Weekly
+Wyoming,Free Shipping,Annually
+Idaho,Standard,Every 3 Months
+Pennsylvania,Standard,Bi-Weekly
+Montana,Express,Fortnightly
+Ohio,Next Day Air,Fortnightly
+Mississippi,Standard,Weekly
+Idaho,Free Shipping,Annually
+Virginia,Next Day Air,Quarterly
+Idaho,Express,Every 3 Months
+Louisiana,Next Day Air,Monthly
+Colorado,Next Day Air,Every 3 Months
+West Virginia,Next Day Air,Fortnightly
+Rhode Island,Free Shipping,Annually
+North Carolina,Express,Bi-Weekly
+Maine,Free Shipping,Annually
+Iowa,Express,Fortnightly
+Kentucky,Express,Weekly
+Massachusetts,Standard,Bi-Weekly
+New York,Standard,Fortnightly
+Nebraska,Store Pickup,Annually
+Oklahoma,Store Pickup,Annually
+Oklahoma,Express,Every 3 Months
+Rhode Island,Store Pickup,Weekly
+Maine,Free Shipping,Every 3 Months
+Arkansas,Free Shipping,Bi-Weekly
+New Mexico,Express,Annually
+Hawaii,Store Pickup,Fortnightly
+Idaho,Free Shipping,Monthly
+South Carolina,Standard,Every 3 Months
+Nevada,Standard,Quarterly
+South Carolina,Standard,Annually
+Maryland,2-Day Shipping,Fortnightly
+Tennessee,Free Shipping,Every 3 Months
+Arkansas,Standard,Quarterly
+Arizona,Standard,Fortnightly
+Ohio,Store Pickup,Quarterly
+North Dakota,Store Pickup,Every 3 Months
+Vermont,2-Day Shipping,Quarterly
+Minnesota,Standard,Monthly
+Idaho,Free Shipping,Every 3 Months
+Maryland,Free Shipping,Weekly
+South Carolina,Standard,Weekly
+California,Next Day Air,Annually
+Georgia,Free Shipping,Monthly
+Vermont,Free Shipping,Bi-Weekly
+Georgia,Standard,Monthly
+New Jersey,Standard,Quarterly
+Utah,Standard,Bi-Weekly
+Utah,Free Shipping,Quarterly
+North Carolina,2-Day Shipping,Annually
+Florida,Express,Annually
+Wisconsin,Next Day Air,Bi-Weekly
+Tennessee,Standard,Quarterly
+Arizona,Next Day Air,Weekly
+Oregon,Store Pickup,Every 3 Months
+Virginia,Express,Weekly
+Maryland,Standard,Quarterly
+Arkansas,Free Shipping,Monthly
+Texas,2-Day Shipping,Weekly
+Vermont,Free Shipping,Annually
+Wyoming,2-Day Shipping,Bi-Weekly
+Alabama,Express,Weekly
+Maine,Free Shipping,Weekly
+South Dakota,Store Pickup,Monthly
+West Virginia,Store Pickup,Annually
+Ohio,2-Day Shipping,Weekly
+Arizona,Standard,Quarterly
+Ohio,Store Pickup,Weekly
+New Mexico,Standard,Annually
+South Dakota,Express,Every 3 Months
+Oklahoma,Next Day Air,Bi-Weekly
+Connecticut,Free Shipping,Every 3 Months
+Wisconsin,Store Pickup,Quarterly
+New Hampshire,Express,Bi-Weekly
+Nebraska,Store Pickup,Annually
+Nevada,Store Pickup,Monthly
+New York,Store Pickup,Weekly
+Pennsylvania,Next Day Air,Weekly
+Delaware,Store Pickup,Monthly
+Mississippi,2-Day Shipping,Quarterly
+Iowa,2-Day Shipping,Monthly
+Utah,Next Day Air,Monthly
+Maryland,2-Day Shipping,Monthly
+Utah,Express,Annually
+Rhode Island,Next Day Air,Weekly
+Maryland,Free Shipping,Monthly
+Hawaii,Store Pickup,Every 3 Months
+Connecticut,2-Day Shipping,Monthly
+Illinois,Store Pickup,Weekly
+California,Free Shipping,Fortnightly
+Connecticut,Free Shipping,Annually
+Colorado,Next Day Air,Fortnightly
+Colorado,Next Day Air,Every 3 Months
+Georgia,Standard,Weekly
+North Dakota,Free Shipping,Every 3 Months
+Idaho,2-Day Shipping,Bi-Weekly
+Connecticut,Next Day Air,Annually
+Montana,Free Shipping,Monthly
+Colorado,Standard,Annually
+Kentucky,Free Shipping,Weekly
+New Mexico,2-Day Shipping,Fortnightly
+New Jersey,Standard,Monthly
+California,Next Day Air,Annually
+North Dakota,Free Shipping,Annually
+Florida,Store Pickup,Quarterly
+Texas,Free Shipping,Annually
+Oklahoma,Store Pickup,Bi-Weekly
+Rhode Island,Standard,Weekly
+Arkansas,2-Day Shipping,Every 3 Months
+Nevada,Next Day Air,Bi-Weekly
+Utah,Free Shipping,Weekly
+Kentucky,Express,Bi-Weekly
+Wisconsin,2-Day Shipping,Quarterly
+Minnesota,Store Pickup,Annually
+North Dakota,Free Shipping,Monthly
+Ohio,Free Shipping,Monthly
+Nevada,Standard,Monthly
+Kentucky,Free Shipping,Every 3 Months
+Kentucky,Standard,Annually
+Montana,Standard,Monthly
+Delaware,Free Shipping,Every 3 Months
+Montana,Free Shipping,Fortnightly
+New Jersey,Express,Annually
+Nebraska,2-Day Shipping,Fortnightly
+Maryland,Standard,Bi-Weekly
+Alabama,Free Shipping,Quarterly
+North Carolina,Standard,Bi-Weekly
+Delaware,2-Day Shipping,Every 3 Months
+Iowa,2-Day Shipping,Monthly
+New York,Standard,Fortnightly
+Virginia,Standard,Annually
+Maryland,Next Day Air,Bi-Weekly
+Texas,Store Pickup,Every 3 Months
+Louisiana,Next Day Air,Every 3 Months
+Mississippi,Store Pickup,Monthly
+Ohio,Next Day Air,Quarterly
+Oregon,Standard,Bi-Weekly
+Wyoming,Express,Every 3 Months
+Pennsylvania,Express,Bi-Weekly
+Oregon,Express,Bi-Weekly
+Oklahoma,Express,Bi-Weekly
+Colorado,Store Pickup,Annually
+New York,Free Shipping,Weekly
+Minnesota,Standard,Monthly
+Texas,Free Shipping,Bi-Weekly
+Wisconsin,Standard,Fortnightly
+Kentucky,Express,Quarterly
+Pennsylvania,2-Day Shipping,Quarterly
+Rhode Island,Free Shipping,Every 3 Months
+Illinois,Store Pickup,Every 3 Months
+Maryland,2-Day Shipping,Weekly
+Missouri,Express,Bi-Weekly
+Alabama,Store Pickup,Weekly
+Maine,Next Day Air,Fortnightly
+Mississippi,Free Shipping,Monthly
+Alabama,2-Day Shipping,Bi-Weekly
+Alaska,Express,Quarterly
+Illinois,Standard,Monthly
+Idaho,Next Day Air,Quarterly
+North Carolina,Standard,Weekly
+Washington,Express,Weekly
+West Virginia,2-Day Shipping,Weekly
+Maine,Standard,Monthly
+Kentucky,Express,Weekly
+Massachusetts,Next Day Air,Monthly
+Pennsylvania,Free Shipping,Monthly
+Hawaii,Free Shipping,Weekly
+Virginia,Standard,Monthly
+New York,Free Shipping,Every 3 Months
+Delaware,Free Shipping,Every 3 Months
+Hawaii,Free Shipping,Quarterly
+Nebraska,Standard,Annually
+Vermont,Standard,Bi-Weekly
+Iowa,Store Pickup,Annually
+Iowa,2-Day Shipping,Every 3 Months
+Arkansas,Free Shipping,Weekly
+Alabama,Next Day Air,Monthly
+Maryland,Next Day Air,Annually
+South Dakota,Express,Annually
+Vermont,Free Shipping,Annually
+Montana,Standard,Monthly
+South Dakota,Standard,Annually
+Ohio,Standard,Monthly
+Texas,Free Shipping,Quarterly
+Indiana,Standard,Weekly
+New Hampshire,Free Shipping,Bi-Weekly
+California,Express,Every 3 Months
+Maine,Free Shipping,Weekly
+Ohio,2-Day Shipping,Fortnightly
+Delaware,Standard,Fortnightly
+Oklahoma,Store Pickup,Every 3 Months
+Indiana,Free Shipping,Annually
+South Carolina,Express,Every 3 Months
+Vermont,Next Day Air,Every 3 Months
+Kansas,Free Shipping,Bi-Weekly
+Utah,Next Day Air,Every 3 Months
+New York,Free Shipping,Every 3 Months
+Indiana,Store Pickup,Fortnightly
+Tennessee,Store Pickup,Weekly
+Georgia,2-Day Shipping,Every 3 Months
+Nebraska,Express,Fortnightly
+Washington,Standard,Annually
+Idaho,Free Shipping,Fortnightly
+Louisiana,Next Day Air,Weekly
+New Jersey,2-Day Shipping,Monthly
+Delaware,Standard,Annually
+Wisconsin,Store Pickup,Weekly
+West Virginia,2-Day Shipping,Quarterly
+Texas,2-Day Shipping,Bi-Weekly
+Hawaii,Express,Bi-Weekly
+Arizona,2-Day Shipping,Monthly
+Louisiana,Store Pickup,Monthly
+Nevada,2-Day Shipping,Monthly
+Rhode Island,2-Day Shipping,Weekly
+Illinois,Free Shipping,Monthly
+Utah,Standard,Bi-Weekly
+North Dakota,Store Pickup,Weekly
+Kansas,Free Shipping,Bi-Weekly
+Nevada,Store Pickup,Quarterly
+Virginia,Standard,Bi-Weekly
+Utah,Express,Every 3 Months
+Idaho,Next Day Air,Every 3 Months
+Alaska,Express,Quarterly
+New Hampshire,Standard,Monthly
+Ohio,Express,Weekly
+Montana,Express,Quarterly
+Louisiana,Next Day Air,Quarterly
+Oregon,Express,Every 3 Months
+Arizona,Store Pickup,Fortnightly
+Alaska,Express,Weekly
+Utah,Store Pickup,Bi-Weekly
+New York,Next Day Air,Weekly
+New Mexico,Free Shipping,Weekly
+Louisiana,Free Shipping,Fortnightly
+Ohio,Free Shipping,Annually
+Nevada,Next Day Air,Every 3 Months
+Idaho,Standard,Annually
+Arizona,Store Pickup,Monthly
+Utah,Express,Every 3 Months
+Wyoming,Express,Bi-Weekly
+Indiana,Store Pickup,Quarterly
+Wisconsin,Next Day Air,Bi-Weekly
+Texas,Free Shipping,Bi-Weekly
+Utah,2-Day Shipping,Annually
+Arkansas,Store Pickup,Every 3 Months
+Pennsylvania,2-Day Shipping,Quarterly
+Georgia,Free Shipping,Weekly
+Indiana,Express,Quarterly
+Idaho,Free Shipping,Every 3 Months
+Montana,Store Pickup,Monthly
+Tennessee,Free Shipping,Annually
+West Virginia,2-Day Shipping,Quarterly
+California,Free Shipping,Every 3 Months
+Georgia,Free Shipping,Quarterly
+Maryland,2-Day Shipping,Weekly
+Idaho,2-Day Shipping,Monthly
+California,Next Day Air,Quarterly
+Alabama,Store Pickup,Weekly
+Utah,2-Day Shipping,Quarterly
+Kentucky,Free Shipping,Bi-Weekly
+Vermont,Next Day Air,Fortnightly
+Iowa,Next Day Air,Annually
+Georgia,Free Shipping,Annually
+Alabama,Next Day Air,Bi-Weekly
+Nebraska,Express,Fortnightly
+Rhode Island,Express,Monthly
+South Dakota,Next Day Air,Every 3 Months
+Illinois,Store Pickup,Monthly
+North Carolina,Free Shipping,Quarterly
+Florida,2-Day Shipping,Bi-Weekly
+Pennsylvania,Store Pickup,Every 3 Months
+Vermont,2-Day Shipping,Bi-Weekly
+Colorado,Standard,Fortnightly
+Utah,Next Day Air,Bi-Weekly
+Kentucky,Standard,Every 3 Months
+Wyoming,Express,Every 3 Months
+Maine,Store Pickup,Fortnightly
+Maine,Next Day Air,Monthly
+New Hampshire,2-Day Shipping,Monthly
+Kansas,Standard,Bi-Weekly
+New Jersey,Standard,Bi-Weekly
+North Carolina,Next Day Air,Weekly
+West Virginia,Store Pickup,Fortnightly
+Kentucky,Express,Quarterly
+California,Store Pickup,Monthly
+South Dakota,Express,Every 3 Months
+California,Standard,Monthly
+Connecticut,Store Pickup,Fortnightly
+Idaho,Express,Quarterly
+North Dakota,Store Pickup,Bi-Weekly
+Michigan,Free Shipping,Every 3 Months
+Missouri,Free Shipping,Weekly
+California,Express,Weekly
+Delaware,Express,Quarterly
+Alabama,Free Shipping,Bi-Weekly
+New Hampshire,Next Day Air,Monthly
+New York,Standard,Quarterly
+Oregon,Free Shipping,Bi-Weekly
+Massachusetts,Next Day Air,Fortnightly
+Utah,Standard,Every 3 Months
+New Hampshire,Express,Bi-Weekly
+Illinois,Store Pickup,Bi-Weekly
+Alaska,2-Day Shipping,Bi-Weekly
+Wyoming,Store Pickup,Annually
+Colorado,Next Day Air,Bi-Weekly
+Vermont,Next Day Air,Weekly
+Utah,Next Day Air,Annually
+Illinois,Store Pickup,Quarterly
+Idaho,Store Pickup,Monthly
+Nevada,Store Pickup,Every 3 Months
+Utah,Next Day Air,Every 3 Months
+North Carolina,Free Shipping,Monthly
+Arkansas,Store Pickup,Quarterly
+North Carolina,Free Shipping,Bi-Weekly
+Texas,Store Pickup,Quarterly
+Nevada,2-Day Shipping,Annually
+Utah,Next Day Air,Bi-Weekly
+Pennsylvania,Store Pickup,Every 3 Months
+Georgia,Store Pickup,Weekly
+Minnesota,Standard,Fortnightly
+Kansas,Next Day Air,Monthly
+Delaware,Free Shipping,Quarterly
+New Mexico,Next Day Air,Quarterly
+Michigan,Free Shipping,Bi-Weekly
+Vermont,Express,Weekly
+Idaho,Express,Fortnightly
+South Dakota,Standard,Bi-Weekly
+Illinois,2-Day Shipping,Weekly
+Georgia,2-Day Shipping,Fortnightly
+Oregon,Express,Monthly
+Alabama,Next Day Air,Annually
+Hawaii,Standard,Bi-Weekly
+Oregon,2-Day Shipping,Monthly
+Illinois,Free Shipping,Fortnightly
+Texas,Next Day Air,Bi-Weekly
+Kansas,Free Shipping,Quarterly
+Texas,Express,Annually
+Nebraska,Express,Weekly
+Arkansas,Store Pickup,Bi-Weekly
+South Dakota,Free Shipping,Bi-Weekly
+Montana,Store Pickup,Weekly
+Florida,Free Shipping,Bi-Weekly
+Virginia,Standard,Quarterly
+Louisiana,2-Day Shipping,Every 3 Months
+Louisiana,Store Pickup,Fortnightly
+Louisiana,Standard,Weekly
+Georgia,Express,Fortnightly
+Iowa,Next Day Air,Bi-Weekly
+California,Standard,Every 3 Months
+Oregon,Standard,Quarterly
+Maine,Store Pickup,Bi-Weekly
+Louisiana,Free Shipping,Every 3 Months
+Arkansas,Standard,Annually
+Maryland,Express,Every 3 Months
+Vermont,Store Pickup,Every 3 Months
+North Dakota,Store Pickup,Every 3 Months
+Michigan,Express,Quarterly
+Arkansas,Next Day Air,Bi-Weekly
+Kentucky,Store Pickup,Weekly
+Indiana,Free Shipping,Fortnightly
+Minnesota,Next Day Air,Bi-Weekly
+Louisiana,2-Day Shipping,Monthly
+Kentucky,Next Day Air,Every 3 Months
+Georgia,Next Day Air,Weekly
+Alaska,Free Shipping,Weekly
+Mississippi,Express,Bi-Weekly
+Kansas,2-Day Shipping,Quarterly
+Arizona,Store Pickup,Quarterly
+Maine,Free Shipping,Quarterly
+Texas,Standard,Fortnightly
+Virginia,Free Shipping,Annually
+North Dakota,Express,Weekly
+West Virginia,Free Shipping,Weekly
+North Carolina,Free Shipping,Annually
+Georgia,Express,Bi-Weekly
+New Mexico,2-Day Shipping,Quarterly
+North Carolina,Store Pickup,Monthly
+Alabama,Next Day Air,Fortnightly
+Connecticut,Standard,Quarterly
+Montana,Free Shipping,Annually
+Montana,2-Day Shipping,Monthly
+Maine,Store Pickup,Fortnightly
+Mississippi,2-Day Shipping,Monthly
+Louisiana,Store Pickup,Quarterly
+Nebraska,Next Day Air,Fortnightly
+Massachusetts,2-Day Shipping,Monthly
+Wisconsin,Standard,Quarterly
+Nebraska,Express,Monthly
+Arizona,Standard,Annually
+Hawaii,Store Pickup,Every 3 Months
+Georgia,Next Day Air,Fortnightly
+Oregon,2-Day Shipping,Bi-Weekly
+Montana,2-Day Shipping,Fortnightly
+Georgia,Free Shipping,Weekly
+Rhode Island,Express,Fortnightly
+Tennessee,Express,Bi-Weekly
+Missouri,Standard,Bi-Weekly
+Washington,Next Day Air,Fortnightly
+Oklahoma,Store Pickup,Monthly
+Connecticut,Store Pickup,Every 3 Months
+Arkansas,2-Day Shipping,Monthly
+Missouri,Standard,Monthly
+Washington,Free Shipping,Annually
+Idaho,Free Shipping,Bi-Weekly
+Montana,Standard,Weekly
+Montana,Free Shipping,Every 3 Months
+Georgia,Free Shipping,Annually
+Mississippi,Standard,Every 3 Months
+Hawaii,2-Day Shipping,Quarterly
+Ohio,Express,Annually
+Virginia,Store Pickup,Annually
+Texas,Free Shipping,Weekly
+Vermont,Standard,Monthly
+Kansas,Store Pickup,Bi-Weekly
+California,Free Shipping,Fortnightly
+Mississippi,Store Pickup,Every 3 Months
+Iowa,Free Shipping,Fortnightly
+Virginia,Express,Fortnightly
+Maryland,Standard,Bi-Weekly
+Missouri,Next Day Air,Quarterly
+Wisconsin,Express,Fortnightly
+Maine,Free Shipping,Every 3 Months
+Pennsylvania,Free Shipping,Weekly
+Maine,Express,Monthly
+Missouri,Free Shipping,Monthly
+Vermont,2-Day Shipping,Monthly
+Wisconsin,Standard,Annually
+New Jersey,Express,Annually
+New Mexico,Free Shipping,Bi-Weekly
+Colorado,2-Day Shipping,Every 3 Months
+California,Free Shipping,Monthly
+Arizona,Next Day Air,Annually
+Indiana,2-Day Shipping,Weekly
+Arkansas,Standard,Annually
+Nevada,Express,Bi-Weekly
+Rhode Island,Standard,Monthly
+Wyoming,2-Day Shipping,Weekly
+Texas,Standard,Monthly
+Washington,Free Shipping,Annually
+Rhode Island,Free Shipping,Every 3 Months
+Illinois,Next Day Air,Weekly
+Oregon,Express,Weekly
+Florida,Express,Monthly
+Kansas,2-Day Shipping,Weekly
+North Dakota,Free Shipping,Monthly
+New Hampshire,Standard,Annually
+Texas,Store Pickup,Quarterly
+Montana,Standard,Bi-Weekly
+Delaware,Free Shipping,Monthly
+New Hampshire,Store Pickup,Weekly
+Minnesota,Next Day Air,Fortnightly
+Alaska,Free Shipping,Quarterly
+Connecticut,2-Day Shipping,Annually
+Connecticut,Express,Monthly
+Kansas,Next Day Air,Annually
+Nevada,Free Shipping,Annually
+Massachusetts,Next Day Air,Monthly
+Indiana,Express,Bi-Weekly
+Washington,2-Day Shipping,Quarterly
+Kansas,Free Shipping,Monthly
+South Carolina,Next Day Air,Monthly
+Vermont,Express,Weekly
+Wyoming,2-Day Shipping,Quarterly
+Colorado,2-Day Shipping,Monthly
+West Virginia,2-Day Shipping,Monthly
+Connecticut,Store Pickup,Quarterly
+Oregon,Express,Weekly
+Idaho,Store Pickup,Every 3 Months
+Arkansas,Express,Annually
+Kansas,Next Day Air,Weekly
+Michigan,Store Pickup,Monthly
+Arkansas,Express,Fortnightly
+Pennsylvania,Free Shipping,Quarterly
+Virginia,Express,Quarterly
+Minnesota,2-Day Shipping,Weekly
+Nevada,Standard,Quarterly
+Montana,Store Pickup,Fortnightly
+Nebraska,2-Day Shipping,Fortnightly
+Indiana,Store Pickup,Every 3 Months
+New Jersey,Next Day Air,Monthly
+Wisconsin,Free Shipping,Every 3 Months
+Minnesota,Express,Every 3 Months
+New Jersey,Express,Bi-Weekly
+Oklahoma,2-Day Shipping,Every 3 Months
+Wisconsin,2-Day Shipping,Annually
+Rhode Island,Store Pickup,Weekly
+Indiana,Standard,Every 3 Months
+Vermont,Express,Fortnightly
+Maine,Express,Bi-Weekly
+Alabama,Express,Fortnightly
+Alabama,Next Day Air,Weekly
+Idaho,Store Pickup,Quarterly
+Arkansas,Free Shipping,Every 3 Months
+Ohio,Express,Monthly
+Illinois,Express,Annually
+Nevada,Standard,Weekly
+Texas,Next Day Air,Quarterly
+Nevada,Free Shipping,Every 3 Months
+Oklahoma,Store Pickup,Fortnightly
+Alabama,2-Day Shipping,Weekly
+South Dakota,Store Pickup,Every 3 Months
+Texas,Store Pickup,Monthly
+Montana,2-Day Shipping,Weekly
+Wyoming,Express,Fortnightly
+New York,Next Day Air,Monthly
+Oregon,Free Shipping,Annually
+California,Next Day Air,Monthly
+North Carolina,Express,Every 3 Months
+Kentucky,2-Day Shipping,Annually
+Hawaii,Free Shipping,Weekly
+Illinois,Express,Fortnightly
+West Virginia,2-Day Shipping,Weekly
+South Carolina,Next Day Air,Bi-Weekly
+Montana,2-Day Shipping,Every 3 Months
+North Dakota,Free Shipping,Monthly
+New Mexico,2-Day Shipping,Monthly
+Missouri,Standard,Fortnightly
+West Virginia,2-Day Shipping,Fortnightly
+South Carolina,Store Pickup,Bi-Weekly
+West Virginia,Next Day Air,Weekly
+Alaska,Next Day Air,Quarterly
+West Virginia,Free Shipping,Monthly
+New Mexico,Express,Every 3 Months
+South Dakota,2-Day Shipping,Monthly
+Oklahoma,Express,Bi-Weekly
+Oklahoma,Free Shipping,Fortnightly
+Alabama,Standard,Bi-Weekly
+Mississippi,Next Day Air,Fortnightly
+Mississippi,Next Day Air,Every 3 Months
+Nebraska,Standard,Bi-Weekly
+Colorado,Store Pickup,Fortnightly
+Pennsylvania,Store Pickup,Monthly
+Utah,Express,Monthly
+Massachusetts,Store Pickup,Monthly
+Iowa,Free Shipping,Fortnightly
+Florida,Express,Annually
+Louisiana,Next Day Air,Quarterly
+Kansas,Express,Monthly
+Kansas,Standard,Quarterly
+Kentucky,Standard,Every 3 Months
+New Mexico,Free Shipping,Fortnightly
+North Carolina,Standard,Quarterly
+North Dakota,Free Shipping,Monthly
+North Dakota,Next Day Air,Every 3 Months
+Illinois,2-Day Shipping,Every 3 Months
+Maine,Next Day Air,Annually
+Indiana,Next Day Air,Weekly
+North Dakota,Free Shipping,Monthly
+Missouri,Standard,Weekly
+Alaska,2-Day Shipping,Monthly
+North Dakota,Standard,Annually
+Connecticut,Express,Quarterly
+Wisconsin,Free Shipping,Bi-Weekly
+New Jersey,Express,Bi-Weekly
+Missouri,2-Day Shipping,Quarterly
+California,Free Shipping,Quarterly
+Washington,2-Day Shipping,Bi-Weekly
+Minnesota,Express,Monthly
+California,Free Shipping,Annually
+Texas,Express,Quarterly
+Montana,Free Shipping,Annually
+Arizona,2-Day Shipping,Bi-Weekly
+Minnesota,2-Day Shipping,Monthly
+Nebraska,Store Pickup,Fortnightly
+Virginia,Free Shipping,Fortnightly
+Connecticut,Standard,Monthly
+New Jersey,Free Shipping,Weekly
+Kentucky,2-Day Shipping,Bi-Weekly
+Washington,Free Shipping,Annually
+Florida,2-Day Shipping,Bi-Weekly
+Oklahoma,Express,Quarterly
+Iowa,Standard,Bi-Weekly
+New Hampshire,Standard,Every 3 Months
+Georgia,Store Pickup,Quarterly
+Mississippi,2-Day Shipping,Bi-Weekly
+New Hampshire,2-Day Shipping,Fortnightly
+Washington,Next Day Air,Bi-Weekly
+Ohio,Free Shipping,Every 3 Months
+Maryland,Next Day Air,Weekly
+Delaware,Store Pickup,Bi-Weekly
+Tennessee,Store Pickup,Bi-Weekly
+Arkansas,Free Shipping,Monthly
+Tennessee,2-Day Shipping,Annually
+New Hampshire,Next Day Air,Monthly
+Minnesota,2-Day Shipping,Every 3 Months
+Florida,Free Shipping,Bi-Weekly
+Tennessee,Next Day Air,Fortnightly
+California,Next Day Air,Bi-Weekly
+Oregon,Standard,Monthly
+Tennessee,Express,Every 3 Months
+North Carolina,2-Day Shipping,Quarterly
+Tennessee,Store Pickup,Fortnightly
+Nebraska,Express,Every 3 Months
+Maine,2-Day Shipping,Monthly
+Illinois,Store Pickup,Fortnightly
+Colorado,Next Day Air,Annually
+Pennsylvania,Free Shipping,Every 3 Months
+Minnesota,Store Pickup,Every 3 Months
+Nevada,2-Day Shipping,Annually
+Connecticut,Express,Annually
+Ohio,Store Pickup,Quarterly
+Kentucky,Next Day Air,Fortnightly
+Minnesota,Next Day Air,Quarterly
+Tennessee,Store Pickup,Weekly
+North Dakota,Standard,Every 3 Months
+Minnesota,Standard,Quarterly
+Nebraska,Express,Weekly
+Delaware,Next Day Air,Bi-Weekly
+Minnesota,Free Shipping,Quarterly
+Rhode Island,Standard,Every 3 Months
+Michigan,2-Day Shipping,Quarterly
+New Jersey,2-Day Shipping,Bi-Weekly
+South Dakota,Store Pickup,Weekly
+North Carolina,Free Shipping,Annually
+Oregon,Next Day Air,Annually
+Montana,2-Day Shipping,Every 3 Months
+New Jersey,Free Shipping,Bi-Weekly
+Arizona,Next Day Air,Monthly
+Vermont,Store Pickup,Annually
+Colorado,Free Shipping,Every 3 Months
+Tennessee,Next Day Air,Quarterly
+New Jersey,Standard,Bi-Weekly
+Montana,Standard,Fortnightly
+Montana,Standard,Annually
+Nevada,Free Shipping,Fortnightly
+Nevada,Standard,Weekly
+Louisiana,2-Day Shipping,Every 3 Months
+Illinois,Standard,Bi-Weekly
+South Carolina,2-Day Shipping,Annually
+Washington,Store Pickup,Bi-Weekly
+Nebraska,Store Pickup,Quarterly
+Alabama,Store Pickup,Quarterly
+Montana,Standard,Annually
+Minnesota,Next Day Air,Every 3 Months
+Ohio,Free Shipping,Bi-Weekly
+New York,2-Day Shipping,Weekly
+Indiana,Store Pickup,Quarterly
+Delaware,Express,Bi-Weekly
+Connecticut,Next Day Air,Quarterly
+New York,2-Day Shipping,Annually
+Alabama,Store Pickup,Every 3 Months
+Massachusetts,2-Day Shipping,Fortnightly
+South Carolina,Free Shipping,Annually
+West Virginia,Store Pickup,Bi-Weekly
+Kentucky,Express,Bi-Weekly
+New Jersey,Free Shipping,Weekly
+New York,Next Day Air,Monthly
+Massachusetts,Next Day Air,Bi-Weekly
+Florida,2-Day Shipping,Monthly
+Michigan,Next Day Air,Bi-Weekly
+Oregon,2-Day Shipping,Annually
+Michigan,Store Pickup,Annually
+Washington,Next Day Air,Monthly
+Alaska,Express,Weekly
+Montana,Next Day Air,Every 3 Months
+New Mexico,Express,Annually
+Connecticut,2-Day Shipping,Every 3 Months
+Alaska,Free Shipping,Annually
+Ohio,2-Day Shipping,Fortnightly
+Montana,2-Day Shipping,Bi-Weekly
+Nebraska,2-Day Shipping,Monthly
+Oklahoma,2-Day Shipping,Annually
+Kentucky,Store Pickup,Monthly
+Idaho,Express,Quarterly
+Maryland,2-Day Shipping,Weekly
+Tennessee,Standard,Annually
+Michigan,Next Day Air,Weekly
+Tennessee,Free Shipping,Bi-Weekly
+Rhode Island,2-Day Shipping,Bi-Weekly
+Florida,Standard,Annually
+Louisiana,2-Day Shipping,Weekly
+Arkansas,Express,Bi-Weekly
+Kentucky,Express,Fortnightly
+Kansas,Standard,Monthly
+Vermont,Store Pickup,Monthly
+Nevada,Free Shipping,Annually
+Oklahoma,Next Day Air,Fortnightly
+Alabama,Standard,Bi-Weekly
+Louisiana,Store Pickup,Bi-Weekly
+Ohio,Standard,Annually
+Texas,Express,Monthly
+Maryland,Express,Fortnightly
+West Virginia,Standard,Quarterly
+Ohio,Express,Annually
+Indiana,Express,Bi-Weekly
+Wyoming,Standard,Quarterly
+Michigan,Standard,Every 3 Months
+Maine,2-Day Shipping,Fortnightly
+Utah,Next Day Air,Annually
+Iowa,Standard,Weekly
+Maryland,Standard,Annually
+Texas,Next Day Air,Annually
+Ohio,Standard,Quarterly
+North Dakota,Store Pickup,Annually
+West Virginia,Free Shipping,Bi-Weekly
+North Carolina,Store Pickup,Bi-Weekly
+Georgia,Free Shipping,Weekly
+Kansas,Express,Weekly
+Maine,Store Pickup,Monthly
+South Carolina,Express,Quarterly
+South Carolina,Free Shipping,Weekly
+Kentucky,Store Pickup,Bi-Weekly
+Arizona,Store Pickup,Quarterly
+New York,Standard,Monthly
+New Hampshire,Free Shipping,Monthly
+Ohio,Store Pickup,Bi-Weekly
+Hawaii,Next Day Air,Weekly
+Texas,Express,Every 3 Months
+Illinois,Free Shipping,Bi-Weekly
+Massachusetts,Standard,Fortnightly
+North Carolina,Standard,Weekly
+West Virginia,Store Pickup,Annually
+Delaware,Store Pickup,Quarterly
+Idaho,2-Day Shipping,Every 3 Months
+Oregon,Store Pickup,Quarterly
+Maine,Express,Monthly
+South Dakota,Standard,Annually
+New Mexico,Store Pickup,Weekly
+Washington,Free Shipping,Quarterly
+Georgia,Free Shipping,Weekly
+Idaho,Free Shipping,Monthly
+Colorado,Store Pickup,Every 3 Months
+Kentucky,Standard,Bi-Weekly
+New Jersey,Next Day Air,Every 3 Months
+Oregon,Next Day Air,Fortnightly
+Nebraska,Standard,Weekly
+Massachusetts,Next Day Air,Quarterly
+Nebraska,Free Shipping,Weekly
+Hawaii,Next Day Air,Monthly
+Indiana,2-Day Shipping,Every 3 Months
+Illinois,2-Day Shipping,Fortnightly
+Colorado,Store Pickup,Every 3 Months
+Pennsylvania,Standard,Weekly
+Ohio,Next Day Air,Bi-Weekly
+Pennsylvania,2-Day Shipping,Monthly
+Mississippi,2-Day Shipping,Every 3 Months
+Kentucky,Free Shipping,Quarterly
+Alaska,Store Pickup,Fortnightly
+Georgia,Express,Monthly
+South Dakota,Next Day Air,Bi-Weekly
+South Carolina,Free Shipping,Bi-Weekly
+Tennessee,Next Day Air,Every 3 Months
+Colorado,Standard,Quarterly
+Wisconsin,Next Day Air,Fortnightly
+Georgia,Express,Monthly
+Maryland,Store Pickup,Weekly
+New Jersey,Store Pickup,Quarterly
+Nevada,Standard,Fortnightly
+Michigan,Free Shipping,Monthly
+Wyoming,Standard,Annually
+Massachusetts,Express,Every 3 Months
+Washington,Free Shipping,Weekly
+Maine,Free Shipping,Annually
+Montana,Next Day Air,Weekly
+Oklahoma,Express,Weekly
+North Dakota,2-Day Shipping,Quarterly
+Connecticut,Standard,Annually
+Texas,Standard,Fortnightly
+Delaware,Express,Weekly
+Mississippi,Express,Monthly
+Minnesota,Express,Monthly
+Georgia,Standard,Every 3 Months
+Iowa,Store Pickup,Monthly
+New York,Express,Bi-Weekly
+Nevada,Free Shipping,Weekly
+Virginia,Next Day Air,Annually
+Idaho,Express,Weekly
+Colorado,Standard,Every 3 Months
+Wisconsin,2-Day Shipping,Every 3 Months
+Connecticut,2-Day Shipping,Annually
+Kansas,Free Shipping,Bi-Weekly
+Pennsylvania,Standard,Annually
+Utah,Standard,Fortnightly
+Oregon,2-Day Shipping,Fortnightly
+West Virginia,Standard,Weekly
+Montana,Store Pickup,Weekly
+Kentucky,Next Day Air,Quarterly
+Minnesota,Free Shipping,Weekly
+Louisiana,Free Shipping,Fortnightly
+Delaware,Next Day Air,Quarterly
+Arizona,Express,Bi-Weekly
+Nevada,Next Day Air,Every 3 Months
+Alaska,Standard,Quarterly
+Utah,Next Day Air,Every 3 Months
+Kansas,Express,Annually
+North Carolina,Standard,Fortnightly
+Maryland,Free Shipping,Weekly
+Maine,Standard,Every 3 Months
+Illinois,Free Shipping,Annually
+Pennsylvania,Store Pickup,Monthly
+Alaska,Next Day Air,Monthly
+New Mexico,Next Day Air,Monthly
+Arkansas,Next Day Air,Quarterly
+Alaska,Express,Fortnightly
+Louisiana,Standard,Annually
+North Dakota,Standard,Every 3 Months
+Rhode Island,Standard,Monthly
+Connecticut,Free Shipping,Monthly
+New York,Express,Quarterly
+Kentucky,Express,Bi-Weekly
+Maine,Express,Bi-Weekly
+Missouri,Standard,Weekly
+Georgia,Standard,Quarterly
+Arizona,Standard,Every 3 Months
+New Hampshire,2-Day Shipping,Bi-Weekly
+Georgia,Next Day Air,Weekly
+California,2-Day Shipping,Annually
+Arizona,Store Pickup,Every 3 Months
+Florida,Express,Monthly
+New York,Standard,Bi-Weekly
+Idaho,Store Pickup,Bi-Weekly
+Virginia,Standard,Annually
+Michigan,2-Day Shipping,Annually
+New Hampshire,Next Day Air,Every 3 Months
+South Dakota,2-Day Shipping,Every 3 Months
+South Dakota,2-Day Shipping,Quarterly
+New Jersey,2-Day Shipping,Fortnightly
+Wyoming,Next Day Air,Monthly
+Alabama,2-Day Shipping,Quarterly
+South Dakota,Store Pickup,Annually
+South Carolina,Standard,Fortnightly
+New Mexico,Standard,Quarterly
+Connecticut,Store Pickup,Bi-Weekly
+Kansas,Express,Weekly
+South Carolina,Free Shipping,Bi-Weekly
+North Carolina,Next Day Air,Monthly
+Wyoming,Store Pickup,Quarterly
+Louisiana,Free Shipping,Weekly
+Louisiana,Standard,Annually
+Alabama,Store Pickup,Every 3 Months
+Minnesota,Express,Annually
+New Mexico,Standard,Bi-Weekly
+Tennessee,Next Day Air,Every 3 Months
+New Mexico,2-Day Shipping,Monthly
+Texas,2-Day Shipping,Fortnightly
+Washington,Standard,Annually
+Michigan,Standard,Every 3 Months
+Minnesota,Store Pickup,Annually
+Delaware,2-Day Shipping,Annually
+California,Free Shipping,Monthly
+Wisconsin,Store Pickup,Fortnightly
+Kentucky,Express,Monthly
+Nevada,2-Day Shipping,Bi-Weekly
+North Carolina,2-Day Shipping,Weekly
+Louisiana,Express,Fortnightly
+New Jersey,2-Day Shipping,Fortnightly
+Wisconsin,Store Pickup,Annually
+Arkansas,2-Day Shipping,Weekly
+Texas,Store Pickup,Bi-Weekly
+Illinois,Express,Weekly
+Mississippi,Express,Quarterly
+Delaware,Next Day Air,Every 3 Months
+Georgia,Free Shipping,Monthly
+Kansas,Standard,Fortnightly
+Oklahoma,Store Pickup,Weekly
+New Jersey,Store Pickup,Monthly
+Utah,Express,Quarterly
+Montana,Free Shipping,Bi-Weekly
+Ohio,Standard,Annually
+Colorado,Free Shipping,Fortnightly
+California,2-Day Shipping,Weekly
+Utah,Express,Fortnightly
+Kansas,Express,Bi-Weekly
+Illinois,2-Day Shipping,Annually
+Minnesota,Next Day Air,Monthly
+New York,Free Shipping,Every 3 Months
+Arizona,Store Pickup,Annually
+Tennessee,Standard,Annually
+Arkansas,Next Day Air,Weekly
+Colorado,Free Shipping,Every 3 Months
+Nevada,2-Day Shipping,Fortnightly
+Kansas,Store Pickup,Weekly
+New York,Free Shipping,Bi-Weekly
+Minnesota,Standard,Fortnightly
+Ohio,2-Day Shipping,Annually
+Arizona,Express,Every 3 Months
+Kentucky,Store Pickup,Monthly
+Minnesota,Next Day Air,Fortnightly
+Arkansas,Next Day Air,Annually
+Wyoming,Next Day Air,Bi-Weekly
+North Dakota,2-Day Shipping,Monthly
+Alabama,Express,Every 3 Months
+Mississippi,Standard,Fortnightly
+Illinois,Store Pickup,Annually
+Arkansas,2-Day Shipping,Fortnightly
+Kansas,Next Day Air,Fortnightly
+Rhode Island,Next Day Air,Weekly
+Florida,Express,Weekly
+Missouri,Store Pickup,Fortnightly
+North Carolina,Next Day Air,Quarterly
+Alabama,2-Day Shipping,Every 3 Months
+Washington,Next Day Air,Monthly
+Michigan,Store Pickup,Annually
+Washington,Store Pickup,Quarterly
+Vermont,Free Shipping,Every 3 Months
+Illinois,2-Day Shipping,Quarterly
+New York,Free Shipping,Monthly
+Rhode Island,2-Day Shipping,Fortnightly
+Washington,2-Day Shipping,Fortnightly
+Virginia,Express,Monthly
+Wisconsin,Free Shipping,Monthly
+Michigan,Standard,Annually
+Texas,Standard,Fortnightly
+Idaho,Store Pickup,Bi-Weekly
+Iowa,Standard,Quarterly
+Connecticut,Next Day Air,Monthly
+Wyoming,Store Pickup,Bi-Weekly
+Mississippi,Free Shipping,Fortnightly
+Pennsylvania,Free Shipping,Bi-Weekly
+Tennessee,Standard,Bi-Weekly
+Louisiana,Free Shipping,Bi-Weekly
+Arkansas,Next Day Air,Every 3 Months
+West Virginia,Next Day Air,Monthly
+South Carolina,Standard,Quarterly
+Kansas,Store Pickup,Bi-Weekly
+Michigan,Next Day Air,Weekly
+Alabama,Free Shipping,Fortnightly
+South Dakota,2-Day Shipping,Weekly
+Rhode Island,Express,Bi-Weekly
+Florida,Standard,Fortnightly
+Connecticut,Next Day Air,Annually
+Pennsylvania,Standard,Weekly
+California,2-Day Shipping,Annually
+Oklahoma,Store Pickup,Weekly
+North Dakota,Store Pickup,Every 3 Months
+New Mexico,Store Pickup,Annually
+South Carolina,Store Pickup,Weekly
+Michigan,Standard,Every 3 Months
+Missouri,Store Pickup,Quarterly
+Colorado,Free Shipping,Annually
+Kansas,Store Pickup,Bi-Weekly
+Illinois,2-Day Shipping,Weekly
+South Carolina,Express,Monthly
+Utah,Free Shipping,Quarterly
+Hawaii,2-Day Shipping,Fortnightly
+Texas,Free Shipping,Annually
+Oregon,2-Day Shipping,Quarterly
+Arizona,Express,Every 3 Months
+New York,Express,Weekly
+Nebraska,Free Shipping,Monthly
+Vermont,Next Day Air,Every 3 Months
+Maryland,Express,Every 3 Months
+Tennessee,Standard,Bi-Weekly
+Pennsylvania,Free Shipping,Every 3 Months
+South Carolina,Free Shipping,Quarterly
+Connecticut,Next Day Air,Annually
+Kentucky,Standard,Fortnightly
+Rhode Island,Free Shipping,Monthly
+Colorado,Express,Annually
+Oklahoma,Next Day Air,Annually
+Idaho,Next Day Air,Every 3 Months
+Maine,Next Day Air,Bi-Weekly
+Vermont,Standard,Annually
+Rhode Island,2-Day Shipping,Quarterly
+Florida,2-Day Shipping,Bi-Weekly
+West Virginia,2-Day Shipping,Quarterly
+Indiana,Free Shipping,Annually
+Illinois,Next Day Air,Every 3 Months
+California,Next Day Air,Every 3 Months
+Massachusetts,2-Day Shipping,Annually
+Idaho,Store Pickup,Every 3 Months
+Kentucky,Free Shipping,Bi-Weekly
+Delaware,Free Shipping,Fortnightly
+Idaho,Free Shipping,Weekly
+Virginia,Store Pickup,Bi-Weekly
+Arizona,2-Day Shipping,Bi-Weekly
+Maryland,Standard,Bi-Weekly
+Idaho,Free Shipping,Quarterly
+New Jersey,Next Day Air,Fortnightly
+Washington,Express,Monthly
+Idaho,Next Day Air,Monthly
+Rhode Island,Store Pickup,Bi-Weekly
+Delaware,2-Day Shipping,Annually
+Alaska,2-Day Shipping,Every 3 Months
+Arizona,Free Shipping,Monthly
+Alabama,Free Shipping,Every 3 Months
+Washington,2-Day Shipping,Weekly
+Louisiana,Next Day Air,Fortnightly
+Nebraska,Express,Every 3 Months
+Pennsylvania,Free Shipping,Monthly
+South Carolina,Express,Bi-Weekly
+California,2-Day Shipping,Weekly
+Indiana,Store Pickup,Quarterly
+Missouri,Store Pickup,Quarterly
+Connecticut,Next Day Air,Weekly
+Nevada,Next Day Air,Every 3 Months
+New York,Store Pickup,Annually
+Oklahoma,Standard,Every 3 Months
+South Dakota,Next Day Air,Monthly
+Missouri,Standard,Bi-Weekly
+Texas,Next Day Air,Annually
+New York,Free Shipping,Fortnightly
+Vermont,Free Shipping,Quarterly
+Arizona,Standard,Annually
+Montana,Store Pickup,Weekly
+Oklahoma,Express,Bi-Weekly
+New Hampshire,Next Day Air,Annually
+Wisconsin,Store Pickup,Quarterly
+Alaska,Standard,Fortnightly
+South Dakota,2-Day Shipping,Quarterly
+Alaska,Standard,Fortnightly
+Utah,Express,Weekly
+South Dakota,Free Shipping,Annually
+California,Express,Annually
+Mississippi,Free Shipping,Quarterly
+Tennessee,Standard,Fortnightly
+Alabama,Free Shipping,Fortnightly
+Maine,Free Shipping,Fortnightly
+Virginia,Next Day Air,Annually
+New Hampshire,Standard,Monthly
+Tennessee,2-Day Shipping,Weekly
+New York,2-Day Shipping,Every 3 Months
+Kansas,Next Day Air,Monthly
+North Dakota,Express,Every 3 Months
+Alaska,Standard,Weekly
+Texas,Store Pickup,Weekly
+Massachusetts,Express,Fortnightly
+Delaware,Standard,Annually
+South Dakota,2-Day Shipping,Weekly
+Arkansas,Express,Weekly
+Utah,Free Shipping,Quarterly
+California,Next Day Air,Quarterly
+Rhode Island,Next Day Air,Annually
+Oklahoma,Store Pickup,Monthly
+Vermont,Next Day Air,Bi-Weekly
+Kentucky,Store Pickup,Fortnightly
+Illinois,2-Day Shipping,Monthly
+Connecticut,Standard,Weekly
+Florida,2-Day Shipping,Annually
+New Jersey,Standard,Quarterly
+Missouri,Standard,Weekly
+Michigan,Next Day Air,Annually
+Washington,Express,Bi-Weekly
+New York,Standard,Annually
+Wisconsin,Free Shipping,Monthly
+Idaho,Standard,Monthly
+Michigan,Next Day Air,Every 3 Months
+Georgia,Express,Bi-Weekly
+Michigan,Free Shipping,Every 3 Months
+Maine,Express,Fortnightly
+Maryland,Store Pickup,Fortnightly
+Missouri,Express,Annually
+Oregon,Free Shipping,Monthly
+Arkansas,Express,Quarterly
+New Hampshire,Standard,Quarterly
+Oregon,Free Shipping,Every 3 Months
+Kansas,Free Shipping,Every 3 Months
+California,Standard,Weekly
+Georgia,Free Shipping,Quarterly
+Hawaii,Express,Fortnightly
+Montana,Express,Annually
+Montana,Standard,Fortnightly
+Mississippi,Free Shipping,Weekly
+Washington,Free Shipping,Fortnightly
+Pennsylvania,2-Day Shipping,Every 3 Months
+Nevada,Next Day Air,Every 3 Months
+Kansas,2-Day Shipping,Weekly
+Arizona,Free Shipping,Every 3 Months
+Tennessee,2-Day Shipping,Quarterly
+Pennsylvania,Express,Bi-Weekly
+Alaska,Free Shipping,Fortnightly
+New Mexico,Free Shipping,Fortnightly
+Rhode Island,Express,Every 3 Months
+Connecticut,Free Shipping,Quarterly
+Idaho,Express,Fortnightly
+Mississippi,2-Day Shipping,Monthly
+Colorado,Next Day Air,Monthly
+Georgia,Free Shipping,Every 3 Months
+Montana,Next Day Air,Quarterly
+California,Standard,Annually
+Pennsylvania,Express,Every 3 Months
+Delaware,2-Day Shipping,Fortnightly
+New Hampshire,Next Day Air,Every 3 Months
+Florida,Express,Fortnightly
+Mississippi,2-Day Shipping,Every 3 Months
+Montana,Free Shipping,Annually
+Mississippi,2-Day Shipping,Weekly
+Tennessee,Store Pickup,Bi-Weekly
+Florida,Free Shipping,Annually
+Illinois,Next Day Air,Quarterly
+Virginia,Free Shipping,Quarterly
+Texas,Store Pickup,Every 3 Months
+Missouri,Store Pickup,Quarterly
+Mississippi,2-Day Shipping,Bi-Weekly
+Pennsylvania,Next Day Air,Annually
+Wyoming,Standard,Monthly
+Idaho,Next Day Air,Monthly
+New Hampshire,Free Shipping,Fortnightly
+Wyoming,Express,Fortnightly
+Nebraska,Store Pickup,Every 3 Months
+Alaska,2-Day Shipping,Fortnightly
+Maryland,Standard,Monthly
+Maryland,2-Day Shipping,Annually
+Arizona,Free Shipping,Annually
+Ohio,Next Day Air,Every 3 Months
+Minnesota,2-Day Shipping,Every 3 Months
+New Hampshire,Standard,Monthly
+Louisiana,Standard,Weekly
+Nevada,2-Day Shipping,Bi-Weekly
+New Hampshire,2-Day Shipping,Annually
+Wisconsin,2-Day Shipping,Annually
+Nevada,Next Day Air,Monthly
+South Carolina,2-Day Shipping,Annually
+Florida,Free Shipping,Quarterly
+Massachusetts,Free Shipping,Monthly
+Georgia,2-Day Shipping,Weekly
+North Dakota,Free Shipping,Fortnightly
+North Dakota,Next Day Air,Fortnightly
+Maryland,Express,Weekly
+New Mexico,Free Shipping,Quarterly
+Iowa,Express,Quarterly
+Kansas,Express,Quarterly
+Virginia,Standard,Bi-Weekly
+Alaska,Express,Annually
+Nebraska,Standard,Annually
+Colorado,Free Shipping,Quarterly
+Michigan,Standard,Fortnightly
+Massachusetts,Store Pickup,Bi-Weekly
+Connecticut,2-Day Shipping,Every 3 Months
+Virginia,2-Day Shipping,Weekly
+Iowa,Store Pickup,Bi-Weekly
+New Jersey,Standard,Quarterly
+Minnesota,Express,Weekly
+California,Store Pickup,Quarterly
